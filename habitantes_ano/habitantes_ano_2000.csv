@@ -1,0 +1,5508 @@
+NOME_MUNICIPIO,NUM_HABITANTES,ANO
+Alta Floresta D'Oeste,25257,2000
+Alto Alegre do Parecis,9770,2000
+Alto Paraiso,12348,2000
+Alvorada D'Oeste,18685,2000
+Ariquemes,75098,2000
+Buritis,12891,2000
+Cabixi,7832,2000
+Cacaulandia,4980,2000
+Cacoal,75862,2000
+Campo Novo de Rondonia,8846,2000
+Candeias do Jamari,14076,2000
+Castanheiras,4128,2000
+Cerejeiras,18746,2000
+Chupinguaia,4292,2000
+Colorado do Oeste,23759,2000
+Corumbiara,9668,2000
+Costa Marques,11712,2000
+Cujubim,4470,2000
+Espigao D'Oeste,24842,2000
+Governador Jorge Teixeira,12740,2000
+Guajara-Mirim,40871,2000
+Itapua do Oeste,5906,2000
+Jaru,46814,2000
+Ji-Parana,92728,2000
+Machadinho D'Oeste,32517,2000
+Ministro Andreazza,9839,2000
+Mirante da Serra,14550,2000
+Monte Negro,12873,2000
+Nova Brasilandia D'Oeste,15103,2000
+Nova Mamore,18057,2000
+Nova Uniao,6371,2000
+Novo Horizonte do Oeste,10187,2000
+Ouro Preto do Oeste,40378,2000
+Parecis,4115,2000
+Pimenta Bueno,31659,2000
+Pimenteiras do Oeste,2319,2000
+Porto Velho,314525,2000
+Presidente Medici,29322,2000
+Primavera de Rondonia,4128,2000
+Rio Crespo,3192,2000
+Rolim de Moura,43628,2000
+Santa Luzia D'Oeste,10356,2000
+Sao Felipe D'Oeste,6657,2000
+Sao Francisco do Guapore,7212,2000
+Sao Miguel do Guapore,26565,2000
+Seringueiras,10949,2000
+Teixeiropolis,5153,2000
+Theobroma,10039,2000
+Urupa,16330,2000
+Vale do Anari,8242,2000
+Vale do Paraiso,9358,2000
+Vilhena,47669,2000
+Acrelandia,7115,2000
+Assis Brasil,2919,2000
+Brasileia,13922,2000
+Bujari,5135,2000
+Capixaba,3635,2000
+Cruzeiro do Sul,64573,2000
+Epitaciolandia,10704,2000
+Feijo,26011,2000
+Jordao,3440,2000
+Mancio Lima,9457,2000
+Manoel Urbano,6226,2000
+Marechal Thaumaturgo,8651,2000
+Placido de Castro,11852,2000
+Porto Acre,7595,2000
+Porto Walter,4559,2000
+Rio Branco,269180,2000
+Rodrigues Alves,10145,2000
+Santa Rosa do Purus,2045,2000
+Sena Madureira,22364,2000
+Senador Guiomard,13688,2000
+Tarauaca,23950,2000
+Xapuri,14707,2000
+Alvaraes,17710,2000
+Amatura,7431,2000
+Anama,7759,2000
+Anori,11389,2000
+Apui,14693,2000
+Atalaia do Norte,8209,2000
+Autazes,32425,2000
+Barcelos,21400,2000
+Barreirinha,23045,2000
+Benjamin Constant,28339,2000
+Beruri,10610,2000
+Boa Vista do Ramos,9750,2000
+Boca do Acre,20807,2000
+Borba,30306,2000
+Caapiranga,4743,2000
+Canutama,5980,2000
+Carauari,22421,2000
+Careiro,12657,2000
+Careiro da Varzea,11740,2000
+Coari,67122,2000
+Codajas,16295,2000
+Eirunepe,29898,2000
+Envira,19509,2000
+Fonte Boa,26689,2000
+Guajara,8632,2000
+Humaita,21688,2000
+Ipixuna,11976,2000
+Iranduba,33496,2000
+Itacoatiara,72008,2000
+Itamarati,5747,2000
+Itapiranga,7507,2000
+Japura,4578,2000
+Jurua,3527,2000
+Jutai,23173,2000
+Labrea,23407,2000
+Manacapuru,72718,2000
+Manaquiri,22161,2000
+Manaus,1285841,2000
+Manicore,32072,2000
+Maraa,16127,2000
+Maues,42486,2000
+Nhamunda,15491,2000
+Nova Olinda do Norte,22981,2000
+Novo Airao,15697,2000
+Novo Aripuana,16419,2000
+Parintins,83021,2000
+Pauini,19616,2000
+Presidente Figueiredo,13121,2000
+Rio Preto da Eva,12978,2000
+Santa Isabel do Rio Negro,9560,2000
+Santo Antonio do Ica,27624,2000
+Sao Gabriel da Cachoeira,29931,2000
+Sao Paulo de Olivenca,26395,2000
+Sao Sebastiao do Uatuma,6678,2000
+Silves,7937,2000
+Tabatinga,35495,2000
+Tapaua,13154,2000
+Tefe,69435,2000
+Tonantins,18722,2000
+Uarini,14008,2000
+Urucara,21748,2000
+Urucurituba,13169,2000
+Alto Alegre,16026,2000
+Amajari,5146,2000
+Boa Vista,171361,2000
+Bonfim,7071,2000
+Canta,9566,2000
+Caracarai,10457,2000
+Caroebe,4318,2000
+Iracema,2885,2000
+Mucajai,11151,2000
+Normandia,6247,2000
+Pacaraima,6431,2000
+Rorainopolis,9023,2000
+Sao Joao da Baliza,3629,2000
+Sao Luiz,5360,2000
+Uiramuta,4489,2000
+Abaetetuba,112683,2000
+Abel Figueiredo,5822,2000
+Acara,64347,2000
+Afua,27708,2000
+agua Azul do Norte,28585,2000
+Alenquer,40149,2000
+Almeirim,38195,2000
+Altamira,88146,2000
+Anajas,16627,2000
+Ananindeua,419754,2000
+Anapu,9142,2000
+Augusto Correa,26696,2000
+Aurora do Para,17496,2000
+Aveiro,17094,2000
+Bagre,8804,2000
+Baiao,20578,2000
+Bannach,3118,2000
+Barcarena,60708,2000
+Belem,1200355,2000
+Belterra,10329,2000
+Benevides,35633,2000
+Bom Jesus do Tocantins,9300,2000
+Bonito,11531,2000
+Braganca,88824,2000
+Brasil Novo,15934,2000
+Brejo Grande do Araguaia,6673,2000
+Breu Branco,26787,2000
+Breves,78903,2000
+Bujaru,23867,2000
+Cachoeira do Arari,22773,2000
+Cachoeira do Piria,8527,2000
+Cameta,93844,2000
+Canaa dos Carajas,14110,2000
+Capanema,56330,2000
+Capitao Poco,38058,2000
+Castanhal,130866,2000
+Chaves,12497,2000
+Colares,9509,2000
+Conceicao do Araguaia,47245,2000
+Concordia do Para,20911,2000
+Cumaru do Norte,2910,2000
+Curionopolis,21072,2000
+Curralinho,19958,2000
+Curua,7425,2000
+Curuca,25842,2000
+Dom Eliseu,48991,2000
+Eldorado dos Carajas,24363,2000
+Faro,7922,2000
+Floresta do Araguaia,14441,2000
+Garrafao do Norte,25890,2000
+Goianesia do Para,27659,2000
+Gurupa,22181,2000
+Igarape-Acu,34420,2000
+Igarape-Miri,52521,2000
+Inhangapi,7776,2000
+Ipixuna do Para,17456,2000
+Irituia,25922,2000
+Itaituba,102483,2000
+Itupiranga,29654,2000
+Jacareacanga,24197,2000
+Jacunda,49934,2000
+Juruti,29110,2000
+Limoeiro do Ajuru,19177,2000
+Mae do Rio,16203,2000
+Magalhaes Barata,8469,2000
+Maraba,173375,2000
+Maracana,22355,2000
+Marapanim,25043,2000
+Marituba,62371,2000
+Medicilandia,42127,2000
+Melgaco,16252,2000
+Mocajuba,18987,2000
+Moju,50708,2000
+Monte Alegre,52068,2000
+Muana,24918,2000
+Nova Esperanca do Piria,20965,2000
+Nova Ipixuna,8877,2000
+Nova Timboteua,17177,2000
+Novo Progresso,20621,2000
+Novo Repartimento,31925,2000
+obidos,46530,2000
+Oeiras do Para,24232,2000
+Oriximina,44087,2000
+Ourem,14769,2000
+Ourilandia do Norte,13333,2000
+Pacaja,19447,2000
+Palestina do Para,6472,2000
+Paragominas,69209,2000
+Parauapebas,80515,2000
+Pau D'Arco,6410,2000
+Peixe-Boi,8023,2000
+Picarra,8960,2000
+Placas,10274,2000
+Ponta de Pedras,18537,2000
+Portel,38297,2000
+Porto de Moz,32844,2000
+Prainha,18961,2000
+Primavera,9350,2000
+Quatipuru,10764,2000
+Redencao,64926,2000
+Rio Maria,16105,2000
+Rondon do Para,39552,2000
+Ruropolis,27088,2000
+Salinopolis,31888,2000
+Salvaterra,15507,2000
+Santa Barbara do Para,14472,2000
+Santa Cruz do Arari,4983,2000
+Santa Isabel do Para,44008,2000
+Santa Luzia do Para,14745,2000
+Santa Maria das Barreiras,12987,2000
+Santa Maria do Para,22576,2000
+Santana do Araguaia,27609,2000
+Santarem,241461,2000
+Santarem Novo,3720,2000
+Santo Antonio do Taua,24108,2000
+Sao Caetano de Odivelas,12436,2000
+Sao Domingos do Araguaia,23833,2000
+Sao Domingos do Capim,26857,2000
+Sao Felix do Xingu,51913,2000
+Sao Francisco do Para,8496,2000
+Sao Geraldo do Araguaia,24414,2000
+Sao Joao da Ponta,3083,2000
+Sao Joao de Pirabas,17916,2000
+Sao Joao do Araguaia,10170,2000
+Sao Miguel do Guama,38115,2000
+Sao Sebastiao da Boa Vista,16832,2000
+Sapucaia,3940,2000
+Senador Jose Porfirio,14727,2000
+Soure,20444,2000
+Tailandia,40429,2000
+Terra Alta,8545,2000
+Terra Santa,14855,2000
+Tome-Acu,47306,2000
+Tracuateua,18655,2000
+Trairao,6047,2000
+Tucuma,36705,2000
+Tucurui,61596,2000
+Ulianopolis,12154,2000
+Uruara,47368,2000
+Vigia,34245,2000
+Viseu,49362,2000
+Vitoria do Xingu,13076,2000
+Xinguara,32383,2000
+Amapa,6252,2000
+Calcoene,6119,2000
+Cutias,2281,2000
+Ferreira Gomes,2828,2000
+Itaubal,2781,2000
+Laranjal do Jari,28996,2000
+Macapa,267140,2000
+Mazagao,13504,2000
+Oiapoque,11962,2000
+Pedra Branca do Amapari,4130,2000
+Porto Grande,8760,2000
+Pracuuba,1929,2000
+Santana,85873,2000
+Serra do Navio,3765,2000
+Tartarugalzinho,4524,2000
+Vitoria do Jari,7952,2000
+Abreulandia,2020,2000
+Aguiarnopolis,3023,2000
+Alianca do Tocantins,6157,2000
+Almas,7926,2000
+Alvorada,9363,2000
+Ananas,10816,2000
+Angico,2197,2000
+Aparecida do Rio Negro,4040,2000
+Aragominas,4174,2000
+Araguacema,4864,2000
+Araguacu,9593,2000
+Araguaina,118079,2000
+Araguana,3675,2000
+Araguatins,25170,2000
+Arapoema,5758,2000
+Arraias,11845,2000
+Augustinopolis,21537,2000
+Aurora do Tocantins,3017,2000
+Axixa do Tocantins,9492,2000
+Babaculandia,8588,2000
+Bandeirantes do Tocantins,1956,2000
+Barra do Ouro,3134,2000
+Barrolandia,4331,2000
+Bernardo Sayao,4459,2000
+Bom Jesus do Tocantins,1818,2000
+Brasilandia do Tocantins,1818,2000
+Brejinho de Nazare,4531,2000
+Buriti do Tocantins,7553,2000
+Cachoeirinha,2263,2000
+Campos Lindos,6617,2000
+Cariri do Tocantins,1972,2000
+Carmolandia,1284,2000
+Carrasco Bonito,3415,2000
+Caseara,4341,2000
+Centenario,2415,2000
+Chapada da Natividade,3360,2000
+Chapada de Areia,926,2000
+Colinas do Tocantins,27308,2000
+Colmeia,9373,2000
+Combinado,5029,2000
+Conceicao do Tocantins,4868,2000
+Couto de Magalhaes,4030,2000
+Cristalandia,7792,2000
+Crixas do Tocantins,1210,2000
+Darcinopolis,4327,2000
+Dianopolis,16605,2000
+Divinopolis do Tocantins,5479,2000
+Dois Irmaos do Tocantins,6640,2000
+Duere,3874,2000
+Esperantina,6706,2000
+Fatima,3204,2000
+Figueiropolis,6047,2000
+Filadelfia,7362,2000
+Formoso do Araguaia,20514,2000
+Fortaleza do Tabocao,2768,2000
+Goianorte,5103,2000
+Goiatins,10771,2000
+Guarai,19914,2000
+Gurupi,72219,2000
+Ipueiras,1175,2000
+Itacaja,5756,2000
+Itaguatins,7301,2000
+Itapiratins,3759,2000
+Itapora do Tocantins,2972,2000
+Jau do Tocantins,3808,2000
+Juarina,2976,2000
+Lagoa da Confusao,6428,2000
+Lagoa do Tocantins,3279,2000
+Lajeado,1750,2000
+Lavandeira,1035,2000
+Lizarda,4022,2000
+Luzinopolis,1764,2000
+Marianopolis do Tocantins,2874,2000
+Mateiros,1866,2000
+Maurilandia do Tocantins,3408,2000
+Miracema do Tocantins,15513,2000
+Miranorte,10545,2000
+Monte do Carmo,5255,2000
+Monte Santo do Tocantins,1630,2000
+Muricilandia,3367,2000
+Natividade,9609,2000
+Nazare,5500,2000
+Nova Olinda,9734,2000
+Nova Rosalandia,3979,2000
+Novo Acordo,3548,2000
+Novo Alegre,2045,2000
+Novo Jardim,2517,2000
+Oliveira de Fatima,697,2000
+Palmas,133199,2000
+Palmeirante,3891,2000
+Palmeiras do Tocantins,4230,2000
+Palmeiropolis,6500,2000
+Paraiso do Tocantins,36800,2000
+Parana,8226,2000
+Pau D'Arco,6323,2000
+Pedro Afonso,7601,2000
+Peixe,7283,2000
+Pequizeiro,3960,2000
+Pindorama do Tocantins,4361,2000
+Piraque,2235,2000
+Pium,4992,2000
+Ponte Alta do Bom Jesus,4360,2000
+Ponte Alta do Tocantins,6731,2000
+Porto Alegre do Tocantins,2717,2000
+Porto Nacional,43292,2000
+Praia Norte,5791,2000
+Presidente Kennedy,4594,2000
+Pugmil,1417,2000
+Recursolandia,3653,2000
+Riachinho,3448,2000
+Rio da Conceicao,1296,2000
+Rio dos Bois,2557,2000
+Rio Sono,5740,2000
+Sampaio,2256,2000
+Sandolandia,4185,2000
+Santa Fe do Araguaia,5192,2000
+Santa Maria do Tocantins,2413,2000
+Santa Rita do Tocantins,1508,2000
+Santa Rosa do Tocantins,3706,2000
+Santa Tereza do Tocantins,2699,2000
+Santa Terezinha do Tocantins,2548,2000
+Sao Bento do Tocantins,2260,2000
+Sao Felix do Tocantins,1446,2000
+Sao Miguel do Tocantins,9339,2000
+Sao Salvador do Tocantins,1778,2000
+Sao Sebastiao do Tocantins,4210,2000
+Sao Valerio da Natividade,6235,2000
+Silvanopolis,4372,2000
+Sitio Novo do Tocantins,15644,2000
+Sucupira,1039,2000
+Taguatinga,15298,2000
+Taipas do Tocantins,1373,2000
+Talisma,1588,2000
+Tocantinia,4543,2000
+Tocantinopolis,20955,2000
+Tupirama,1140,2000
+Tupiratins,1448,2000
+Wanderlandia,11464,2000
+Xambioa,11467,2000
+Acailandia,90900,2000
+Afonso Cunha,4552,2000
+agua Doce do Maranhao,10034,2000
+Alcantara,17923,2000
+Aldeias Altas,18095,2000
+Altamira do Maranhao,5825,2000
+Alto Alegre do Maranhao,16413,2000
+Alto Alegre do Pindare,24656,2000
+Alto Parnaiba,10666,2000
+Amapa do Maranhao,4616,2000
+Amarante do Maranhao,33158,2000
+Anajatuba,20553,2000
+Anapurus,10443,2000
+Apicum-Acu,8717,2000
+Araguana,10890,2000
+Araioses,36289,2000
+Arame,25763,2000
+Arari,25586,2000
+Axixa,10220,2000
+Bacabal,94152,2000
+Bacabeira,9838,2000
+Bacuri,14261,2000
+Bacurituba,4538,2000
+Balsas,54377,2000
+Barao de Grajau,15010,2000
+Barra do Corda,70987,2000
+Barreirinhas,39468,2000
+Bela Vista do Maranhao,8156,2000
+Belagua,6476,2000
+Benedito Leite,6336,2000
+Bequimao,20097,2000
+Bernardo do Mearim,4230,2000
+Boa Vista do Gurupi,3889,2000
+Bom Jardim,38119,2000
+Bom Jesus das Selvas,13507,2000
+Bom Lugar,9963,2000
+Brejo,26658,2000
+Brejo de Areia,10202,2000
+Buriti,27885,2000
+Buriti Bravo,22193,2000
+Buriticupu,33006,2000
+Buritirana,10818,2000
+Cachoeira Grande,6391,2000
+Cajapio,8797,2000
+Cajari,15017,2000
+Campestre do Maranhao,10031,2000
+Candido Mendes,16205,2000
+Cantanhede,14308,2000
+Capinzal do Norte,10265,2000
+Carolina,29936,2000
+Carutapera,17670,2000
+Caxias,134042,2000
+Cedral,8571,2000
+Central do Maranhao,5612,2000
+Centro do Guilherme,6053,2000
+Centro Novo do Maranhao,13271,2000
+Chapadinha,62391,2000
+Cidelandia,10884,2000
+Codo,102818,2000
+Coelho Neto,43505,2000
+Colinas,32232,2000
+Conceicao do Lago-Acu,15361,2000
+Coroata,55557,2000
+Cururupu,24238,2000
+Davinopolis,12812,2000
+Dom Pedro,20295,2000
+Duque Bacelar,9381,2000
+Esperantinopolis,16757,2000
+Estreito,21802,2000
+Feira Nova do Maranhao,7036,2000
+Fernando Falcao,4317,2000
+Formosa da Serra Negra,8623,2000
+Fortaleza dos Nogueiras,10700,2000
+Fortuna,16150,2000
+Godofredo Viana,9042,2000
+Goncalves Dias,17165,2000
+Governador Archer,8876,2000
+Governador Edison Lobao,7789,2000
+Governador Eugenio Barros,11791,2000
+Governador Luiz Rocha,8502,2000
+Governador Newton Bello,11203,2000
+Governador Nunes Freire,22819,2000
+Graca Aranha,6107,2000
+Grajau,41232,2000
+Guimaraes,12916,2000
+Humberto de Campos,17975,2000
+Icatu,18797,2000
+Igarape do Meio,9317,2000
+Igarape Grande,10881,2000
+Imperatriz,224148,2000
+Itaipava do Grajau,9237,2000
+Itapecuru Mirim,53506,2000
+Itinga do Maranhao,21374,2000
+Jatoba,6861,2000
+Jenipapo dos Vieiras,8839,2000
+Joao Lisboa,22355,2000
+Joselandia,13950,2000
+Junco do Maranhao,5665,2000
+Lago da Pedra,39636,2000
+Lago do Junco,8715,2000
+Lago dos Rodrigues,7866,2000
+Lago Verde,13417,2000
+Lagoa do Mato,9547,2000
+Lagoa Grande do Maranhao,9574,2000
+Lajeado Novo,4707,2000
+Lima Campos,11637,2000
+Loreto,9706,2000
+Luis Domingues,7979,2000
+Magalhaes de Almeida,13960,2000
+Maracacume,14742,2000
+Maraja do Sena,7701,2000
+Maranhaozinho,8338,2000
+Mata Roma,10789,2000
+Matinha,17445,2000
+Matoes,23573,2000
+Matoes do Norte,5408,2000
+Milagres do Maranhao,6956,2000
+Mirador,19282,2000
+Miranda do Norte,16109,2000
+Mirinzal,13293,2000
+Moncao,22679,2000
+Montes Altos,9824,2000
+Morros,14056,2000
+Nina Rodrigues,7689,2000
+Nova Colinas,3392,2000
+Nova Iorque,4460,2000
+Nova Olinda do Maranhao,16792,2000
+Olho d'agua das Cunhas,20856,2000
+Olinda Nova do Maranhao,11909,2000
+Paco do Lumiar,62684,2000
+Palmeirandia,16022,2000
+Paraibano,21091,2000
+Parnarama,28738,2000
+Passagem Franca,15931,2000
+Pastos Bons,15124,2000
+Paulino Neves,13201,2000
+Paulo Ramos,20292,2000
+Pedreiras,42724,2000
+Pedro do Rosario,10538,2000
+Penalva,33073,2000
+Peri Mirim,18214,2000
+Peritoro,14957,2000
+Pindare Mirim,24429,2000
+Pinheiro,67418,2000
+Pio XII,23044,2000
+Pirapemas,22197,2000
+Pocao de Pedras,21439,2000
+Porto Franco,16266,2000
+Porto Rico do Maranhao,7316,2000
+Presidente Dutra,37720,2000
+Presidente Juscelino,8162,2000
+Presidente Medici,4795,2000
+Presidente Sarney,13710,2000
+Presidente Vargas,10095,2000
+Primeira Cruz,9220,2000
+Raposa,16956,2000
+Riachao,18958,2000
+Ribamar Fiquene,5795,2000
+Rosario,33321,2000
+Sambaiba,6357,2000
+Santa Filomena do Maranhao,3544,2000
+Santa Helena,27576,2000
+Santa Ines,72266,2000
+Santa Luzia,55334,2000
+Santa Luzia do Parua,19940,2000
+Santa Quiteria do Maranhao,20367,2000
+Santa Rita,19999,2000
+Santana do Maranhao,5970,2000
+Santo Amaro do Maranhao,9743,2000
+Santo Antonio dos Lopes,14294,2000
+Sao Benedito do Rio Preto,13344,2000
+Sao Bento,31582,2000
+Sao Bernardo,23373,2000
+Sao Domingos do Azeitao,5603,2000
+Sao Domingos do Maranhao,34913,2000
+Sao Felix de Balsas,5173,2000
+Sao Francisco do Brejao,7286,2000
+Sao Francisco do Maranhao,11903,2000
+Sao Joao do Caru,14790,2000
+Sao Joao do Paraiso,9159,2000
+Sao Joao do Soter,12286,2000
+Sao Joao dos Patos,24015,2000
+Sao Joao Batista,19325,2000
+Sao Jose de Ribamar,100999,2000
+Sao Jose dos Basilios,7486,2000
+Sao Luis,855442,2000
+Sao Luis Gonzaga do Maranhao,22523,2000
+Sao Mateus do Maranhao,33533,2000
+Sao Pedro da agua Branca,10387,2000
+Sao Pedro dos Crentes,4046,2000
+Sao Raimundo das Mangabeiras,15752,2000
+Sao Raimundo do Doca Bezerra,5918,2000
+Sao Roberto,3592,2000
+Sao Vicente Ferrer,17018,2000
+Satubinha,7274,2000
+Senador Alexandre Costa,8911,2000
+Senador La Rocque,17551,2000
+Serrano do Maranhao,15442,2000
+Sitio Novo,19595,2000
+Sucupira do Norte,10667,2000
+Sucupira do Riachao,3892,2000
+Tasso Fragoso,6353,2000
+Timbiras,28005,2000
+Timon,128135,2000
+Trizidela do Vale,19342,2000
+Tufilandia,5228,2000
+Tuntum,34494,2000
+Turiacu,31462,2000
+Turilandia,19730,2000
+Tutoia,40694,2000
+Urbano Santos,23563,2000
+Vargem Grande,30595,2000
+Viana,51846,2000
+Vila Nova dos Martirios,5613,2000
+Vitoria do Mearim,28712,2000
+Vitorino Freire,29077,2000
+Ze Doca,42740,2000
+Acaua,4596,2000
+Agricolandia,5568,2000
+agua Branca,13877,2000
+Alagoinha do Piaui,6734,2000
+Alegrete do Piaui,4348,2000
+Alto Longa,12523,2000
+Altos,40742,2000
+Alvorada do Gurgueia,3975,2000
+Amarante,17441,2000
+Angical do Piaui,7647,2000
+Anisio de Abreu,6706,2000
+Antonio Almeida,2395,2000
+Aroazes,6222,2000
+Arraial,4572,2000
+Assuncao do Piaui,6481,2000
+Avelino Lopes,9532,2000
+Baixa Grande do Ribeiro,8371,2000
+Barra D'Alcantara,4201,2000
+Barras,40948,2000
+Barreiras do Piaui,3039,2000
+Barro Duro,6400,2000
+Batalha,24264,2000
+Bela Vista do Piaui,3104,2000
+Belem do Piaui,2318,2000
+Beneditinos,9693,2000
+Bertolinia,4965,2000
+Betania do Piaui,7437,2000
+Boa Hora,4291,2000
+Bocaina,4102,2000
+Bom Jesus,14864,2000
+Bom Principio do Piaui,4302,2000
+Bonfim do Piaui,4402,2000
+Boqueirao do Piaui,5501,2000
+Brasileira,8152,2000
+Brejo do Piaui,2889,2000
+Buriti dos Lopes,17222,2000
+Buriti dos Montes,6043,2000
+Cabeceiras do Piaui,8866,2000
+Cajazeiras do Piaui,2640,2000
+Cajueiro da Praia,6217,2000
+Caldeirao Grande do Piaui,5502,2000
+Campinas do Piaui,4614,2000
+Campo Alegre do Fidalgo,4254,2000
+Campo Grande do Piaui,4342,2000
+Campo Largo do Piaui,5352,2000
+Campo Maior,40106,2000
+Canavieira,3954,2000
+Canto do Buriti,16456,2000
+Capitao de Campos,10212,2000
+Capitao Gervasio Oliveira,4598,2000
+Caracol,7976,2000
+Caraubas do Piaui,3484,2000
+Caridade do Piaui,3422,2000
+Castelo do Piaui,18302,2000
+Caxingo,2604,2000
+Cocal,24322,2000
+Cocal de Telha,3849,2000
+Cocal dos Alves,4526,2000
+Coivaras,3024,2000
+Colonia do Gurgueia,4926,2000
+Colonia do Piaui,7007,2000
+Conceicao do Caninde,4659,2000
+Coronel Jose Dias,3518,2000
+Corrente,20462,2000
+Cristalandia do Piaui,6294,2000
+Cristino Castro,8437,2000
+Curimata,8414,2000
+Currais,4029,2000
+Curral Novo do Piaui,4052,2000
+Curralinhos,3259,2000
+Demerval Lobao,12182,2000
+Dirceu Arcoverde,6477,2000
+Dom Expedito Lopes,6475,2000
+Dom Inocencio,7555,2000
+Domingos Mourao,4479,2000
+Elesbao Veloso,14617,2000
+Eliseu Martins,4013,2000
+Esperantina,33662,2000
+Fartura do Piaui,3927,2000
+Flores do Piaui,4015,2000
+Floresta do Piaui,2279,2000
+Floriano,52648,2000
+Francinopolis,4551,2000
+Francisco Ayres,4959,2000
+Francisco Macedo,2094,2000
+Francisco Santos,6103,2000
+Fronteiras,9817,2000
+Geminiano,4477,2000
+Gilbues,10783,2000
+Guadalupe,10811,2000
+Guaribas,4742,2000
+Hugo Napoleao,3542,2000
+Ilha Grande,7705,2000
+Inhuma,14050,2000
+Ipiranga do Piaui,8597,2000
+Isaias Coelho,6979,2000
+Itainopolis,9699,2000
+Itaueira,9509,2000
+Jacobina do Piaui,4549,2000
+Jaicos,14949,2000
+Jardim do Mulato,4288,2000
+Jatoba do Piaui,3499,2000
+Jerumenha,4764,2000
+Joao Costa,2726,2000
+Joaquim Pires,13546,2000
+Joca Marques,4113,2000
+Jose de Freitas,29121,2000
+Juazeiro do Piaui,4739,2000
+Julio Borges,4399,2000
+Jurema,4109,2000
+Lagoa de Sao Francisco,5484,2000
+Lagoa do Barro do Piaui,5168,2000
+Lagoa do Piaui,3030,2000
+Lagoa do Sitio,3582,2000
+Lagoa Alegre,7130,2000
+Lagoinha do Piaui,2384,2000
+Landri Sales,5189,2000
+Luis Correia,22825,2000
+Luzilandia,25864,2000
+Madeiro,5838,2000
+Manoel Emidio,4447,2000
+Marcolandia,6556,2000
+Marcos Parente,4630,2000
+Massape do Piaui,5711,2000
+Matias Olimpio,9128,2000
+Miguel Alves,28216,2000
+Miguel Leao,1676,2000
+Milton Brandao,5569,2000
+Monsenhor Gil,10668,2000
+Monsenhor Hipolito,6750,2000
+Monte Alegre do Piaui,9315,2000
+Morro do Chapeu do Piaui,4863,2000
+Morro Cabeca no Tempo,4462,2000
+Murici dos Portelas,5918,2000
+Nazare do Piaui,8334,2000
+Nossa Senhora de Nazare,3250,2000
+Nossa Senhora dos Remedios,8246,2000
+Nova Santa Rita,3540,2000
+Novo Oriente do Piaui,6037,2000
+Novo Santo Antonio,3244,2000
+Oeiras,32309,2000
+Olho D'agua do Piaui,2910,2000
+Padre Marcos,6570,2000
+Paes Landim,3528,2000
+Pajeu do Piaui,3048,2000
+Palmeira do Piaui,5367,2000
+Palmeirais,12061,2000
+Paqueta,4550,2000
+Parnagua,9748,2000
+Parnaiba,131386,2000
+Passagem Franca do Piaui,3644,2000
+Patos do Piaui,5706,2000
+Paulistana,15752,2000
+Pavussu,3829,2000
+Pedro II,36087,2000
+Pedro Laurentino,1434,2000
+Picos,64766,2000
+Pimenteiras,8690,2000
+Pio IX,14809,2000
+Piracuruca,25072,2000
+Piripiri,60405,2000
+Porto,10587,2000
+Porto Alegre do Piaui,1883,2000
+Prata do Piaui,3209,2000
+Queimada Nova,7999,2000
+Redencao do Gurgueia,8172,2000
+Regeneracao,16734,2000
+Riacho Frio,4581,2000
+Ribeira do Piaui,3529,2000
+Ribeiro Goncalves,6058,2000
+Rio Grande do Piaui,5849,2000
+Santa Cruz do Piaui,6280,2000
+Santa Cruz dos Milagres,3689,2000
+Santa Filomena,5867,2000
+Santa Luz,4364,2000
+Santa Rosa do Piaui,5386,2000
+Santana do Piaui,3318,2000
+Santo Antonio de Lisboa,5003,2000
+Santo Antonio dos Milagres,1662,2000
+Santo Inacio do Piaui,3235,2000
+Sao Braz do Piaui,4342,2000
+Sao Felix do Piaui,3124,2000
+Sao Francisco de Assis do Piaui,4029,2000
+Sao Francisco do Piaui,5949,2000
+Sao Goncalo do Gurgueia,2469,2000
+Sao Goncalo do Piaui,3652,2000
+Sao Joao da Canabrava,4485,2000
+Sao Joao da Fronteira,5310,2000
+Sao Joao da Serra,6661,2000
+Sao Joao da Varjota,4284,2000
+Sao Joao do Arraial,4248,2000
+Sao Joao do Piaui,15420,2000
+Sao Jose do Divino,5340,2000
+Sao Jose do Peixe,3510,2000
+Sao Jose do Piaui,5761,2000
+Sao Juliao,5587,2000
+Sao Lourenco do Piaui,4621,2000
+Sao Luis do Piaui,2444,2000
+Sao Miguel da Baixa Grande,1637,2000
+Sao Miguel do Fidalgo,2752,2000
+Sao Miguel do Tapuio,19427,2000
+Sao Pedro do Piaui,12318,2000
+Sao Raimundo Nonato,26384,2000
+Sebastiao Barros,3871,2000
+Sebastiao Leal,3375,2000
+Sigefredo Pacheco,7540,2000
+Simoes,11652,2000
+Simplicio Mendes,10390,2000
+Socorro do Piaui,4157,2000
+Sussuapara,4400,2000
+Tamboril do Piaui,2433,2000
+Tanque do Piaui,1971,2000
+Teresina,703796,2000
+Uniao,37885,2000
+Urucui,15547,2000
+Valenca do Piaui,19057,2000
+Varzea Branca,4783,2000
+Varzea Grande,4273,2000
+Vera Mendes,2523,2000
+Vila Nova do Piaui,2799,2000
+Wall Ferraz,3942,2000
+Abaiara,7131,2000
+Acarape,11512,2000
+Acarau,45200,2000
+Acopiara,46198,2000
+Aiuaba,14452,2000
+Alcantaras,9626,2000
+Altaneira,6073,2000
+Alto Santo,13052,2000
+Amontada,31586,2000
+Antonina do Norte,6460,2000
+Apuiares,12331,2000
+Aquiraz,57654,2000
+Aracati,62832,2000
+Aracoiaba,25042,2000
+Ararenda,11425,2000
+Araripe,17863,2000
+Aratuba,12655,2000
+Arneiroz,6787,2000
+Assare,18271,2000
+Aurora,24905,2000
+Baixio,6726,2000
+Banabuiu,15868,2000
+Barbalha,47745,2000
+Barreira,18618,2000
+Barro,19818,2000
+Barroquinha,13169,2000
+Baturite,30979,2000
+Beberibe,38934,2000
+Bela Cruz,29245,2000
+Boa Viagem,47602,2000
+Brejo Santo,35565,2000
+Camocim,52608,2000
+Campos Sales,24338,2000
+Caninde,68684,2000
+Capistrano,15444,2000
+Caridade,15153,2000
+Carire,18507,2000
+Caririacu,26288,2000
+Carius,16759,2000
+Carnaubal,15533,2000
+Cascavel,52393,2000
+Catarina,13134,2000
+Catunda,9170,2000
+Caucaia,248049,2000
+Cedro,23666,2000
+Chaval,11839,2000
+Choro,12018,2000
+Chorozinho,16231,2000
+Coreau,19989,2000
+Crateus,63531,2000
+Crato,100049,2000
+Croata,16609,2000
+Cruz,19899,2000
+Deputado Irapuan Pinheiro,7553,2000
+Erere,5839,2000
+Eusebio,30560,2000
+Farias Brito,21848,2000
+Forquilha,18222,2000
+Fortaleza,2139372,2000
+Fortim,12276,2000
+Frecheirinha,12158,2000
+General Sampaio,4609,2000
+Graca,14548,2000
+Granja,46174,2000
+Granjeiro,4982,2000
+Groairas,8531,2000
+Guaiuba,16357,2000
+Guaraciaba do Norte,33498,2000
+Guaramiranga,5771,2000
+Hidrolandia,16429,2000
+Horizonte,28511,2000
+Ibaretama,10338,2000
+Ibiapina,21978,2000
+Ibicuitinga,9065,2000
+Icapui,17203,2000
+Ico,56798,2000
+Iguatu,79851,2000
+Independencia,22481,2000
+Ipaporanga,11240,2000
+Ipaumirim,10408,2000
+Ipu,34372,2000
+Ipueiras,36450,2000
+Iracema,13106,2000
+Iraucuba,16506,2000
+Itaicaba,7016,2000
+Itaitinga,29077,2000
+Itapage,41494,2000
+Itapipoca,84053,2000
+Itapiuna,15528,2000
+Itarema,26195,2000
+Itatira,15152,2000
+Jaguaretama,16597,2000
+Jaguaribara,8093,2000
+Jaguaribe,33465,2000
+Jaguaruana,31863,2000
+Jardim,26289,2000
+Jati,6432,2000
+Jijoca de Jericoacoara,10896,2000
+Juazeiro do Norte,202932,2000
+Jucas,19870,2000
+Lavras da Mangabeira,31583,2000
+Limoeiro do Norte,47225,2000
+Madalena,15317,2000
+Maracanau,162638,2000
+Maranguape,90496,2000
+Marco,17705,2000
+Martinopole,8172,2000
+Massape,26866,2000
+Mauriti,39177,2000
+Meruoca,10998,2000
+Milagres,24095,2000
+Milha,12258,2000
+Miraima,11109,2000
+Missao Velha,30155,2000
+Mombaca,38377,2000
+Monsenhor Tabosa,15014,2000
+Morada Nova,61686,2000
+Moraujo,7024,2000
+Morrinhos,16529,2000
+Mucambo,13120,2000
+Mulungu,8608,2000
+Nova Olinda,11259,2000
+Nova Russas,29875,2000
+Novo Oriente,25061,2000
+Ocara,20645,2000
+Oros,20457,2000
+Pacajus,40885,2000
+Pacatuba,48073,2000
+Pacoti,12261,2000
+Pacuja,5621,2000
+Palhano,7359,2000
+Palmacia,9401,2000
+Paracuru,25856,2000
+Paraipaba,21871,2000
+Parambu,31593,2000
+Paramoti,11831,2000
+Pedra Branca,36838,2000
+Penaforte,5940,2000
+Pentecoste,27493,2000
+Pereiro,13476,2000
+Pindoretama,14909,2000
+Piquet Carneiro,12404,2000
+Pires Ferreira,11685,2000
+Poranga,11523,2000
+Porteiras,15343,2000
+Potengi,8491,2000
+Potiretama,5940,2000
+Quiterianopolis,17330,2000
+Quixada,67497,2000
+Quixelo,14641,2000
+Quixeramobim,55221,2000
+Quixere,16773,2000
+Redencao,21067,2000
+Reriutaba,22594,2000
+Russas,57244,2000
+Saboeiro,17162,2000
+Salitre,12090,2000
+Santa Quiteria,38457,2000
+Santana do Acarau,28658,2000
+Santana do Cariri,17116,2000
+Sao Benedito,38605,2000
+Sao Goncalo do Amarante,36045,2000
+Sao Joao do Jaguaribe,8782,2000
+Sao Luis do Curu,11234,2000
+Senador Pompeu,24127,2000
+Senador Sa,5788,2000
+Sobral,148346,2000
+Solonopole,16135,2000
+Tabuleiro do Norte,28062,2000
+Tamboril,28664,2000
+Tarrafas,7503,2000
+Taua,48950,2000
+Tejucuoca,10967,2000
+Tiangua,54303,2000
+Trairi,41265,2000
+Tururu,11187,2000
+Ubajara,29390,2000
+Umari,7227,2000
+Umirim,15197,2000
+Uruburetama,16851,2000
+Uruoca,9631,2000
+Varjota,14975,2000
+Varzea Alegre,34457,2000
+Vicosa do Ceara,45183,2000
+Acari,10852,2000
+Acu,46746,2000
+Afonso Bezerra,9385,2000
+agua Nova,2752,2000
+Alexandria,12983,2000
+Almino Afonso,4700,2000
+Alto do Rodrigues,10113,2000
+Angicos,10726,2000
+Antonio Martins,6232,2000
+Apodi,29067,2000
+Areia Branca,19758,2000
+Ares,11832,2000
+Augusto Severo,9724,2000
+Baia Formosa,7405,2000
+Barauna,19828,2000
+Barcelona,4004,2000
+Bento Fernandes,4822,2000
+Bodo,2409,2000
+Bom Jesus,9423,2000
+Brejinho,10710,2000
+Caicara do Norte,7091,2000
+Caicara do Rio do Vento,2638,2000
+Caico,53973,2000
+Campo Redondo,9167,2000
+Canguaretama,25034,2000
+Caraubas,20492,2000
+Carnauba dos Dantas,6755,2000
+Carnaubais,8187,2000
+Ceara-Mirim,66861,2000
+Cerro Cora,9792,2000
+Coronel Ezequiel,4720,2000
+Coronel Joao Pessoa,4274,2000
+Cruzeta,8060,2000
+Currais Novos,40835,2000
+Doutor Severiano,5553,2000
+Encanto,4624,2000
+Equador,5871,2000
+Espirito Santo,8723,2000
+Espirito Santo do Oeste,4219,2000
+Extremoz,20542,2000
+Felipe Guerra,5040,2000
+Fernando Pedroza,2563,2000
+Florania,8809,2000
+Francisco Dantas,2860,2000
+Frutuoso Gomes,4326,2000
+Galinhos,1574,2000
+Goianinha,15997,2000
+Governador Dix-Sept Rosado,11669,2000
+Grossos,7526,2000
+Guamare,9593,2000
+Ielmo Marinho,9399,2000
+Ipanguacu,12001,2000
+Ipueira,1842,2000
+Itaja,5073,2000
+Itau,5952,2000
+Jacana,7068,2000
+Jandaira,6449,2000
+Janduis,6061,2000
+Januario Cicco,7406,2000
+Japi,6586,2000
+Jardim de Angicos,2594,2000
+Jardim de Piranhas,10932,2000
+Jardim do Serido,11959,2000
+Joao Camara,39339,2000
+Joao Dias,2264,2000
+Jose da Penha,5404,2000
+Jucurutu,19654,2000
+Lagoa d'Anta,5139,2000
+Lagoa de Pedras,6823,2000
+Lagoa de Velhos,2375,2000
+Lagoa Nova,11036,2000
+Lagoa Salgada,6801,2000
+Lajes,8975,2000
+Lajes Pintadas,4113,2000
+Lucrecia,3160,2000
+Luis Gomes,9228,2000
+Macaiba,48408,2000
+Macau,23298,2000
+Major Sales,2954,2000
+Marcelino Vieira,7661,2000
+Martins,7175,2000
+Maxaranguape,7603,2000
+Messias Targino,3641,2000
+Montanhas,10541,2000
+Monte das Gameleiras,2726,2000
+Monte Alegre,16915,2000
+Mossoro,217763,2000
+Natal,699339,2000
+Nisia Floresta,18239,2000
+Nova Cruz,33194,2000
+Olho-d'agua do Borges,5005,2000
+Ouro Branco,4623,2000
+Parana,3195,2000
+Parazinho,4213,2000
+Parelhas,18870,2000
+Parnamirim,99372,2000
+Passa e Fica,7349,2000
+Passagem,2288,2000
+Patu,10500,2000
+Pau dos Ferros,22901,2000
+Pedra Grande,3566,2000
+Pedra Preta,2658,2000
+Pedro Avelino,6268,2000
+Pedro Velho,13929,2000
+Pendencias,10801,2000
+Piloes,2800,2000
+Poco Branco,12687,2000
+Portalegre,6472,2000
+Porto do Mangue,3172,2000
+Presidente Juscelino,6723,2000
+Pureza,5441,2000
+Rafael Fernandes,4185,2000
+Rafael Godeiro,2917,2000
+Riacho da Cruz,2744,2000
+Riacho de Santana,4055,2000
+Riachuelo,4687,2000
+Rio do Fogo,9627,2000
+Rodolfo Fernandes,6582,2000
+Ruy Barbosa,3976,2000
+Santa Cruz,30383,2000
+Santa Maria,3531,2000
+Santana do Matos,12515,2000
+Santana do Serido,2213,2000
+Santo Antonio,20995,2000
+Sao Bento do Norte,3907,2000
+Sao Bento do Trairi,3194,2000
+Sao Fernando,3473,2000
+Sao Francisco do Oeste,3546,2000
+Sao Goncalo do Amarante,65526,2000
+Sao Joao do Sabugi,5408,2000
+Sao Jose de Mipibu,36804,2000
+Sao Jose do Campestre,10709,2000
+Sao Jose do Serido,3797,2000
+Sao Miguel,18703,2000
+Sao Miguel de Touros,5879,2000
+Sao Paulo do Potengi,14642,2000
+Sao Pedro,5704,2000
+Sao Rafael,8550,2000
+Sao Tome,10495,2000
+Sao Vicente,4931,2000
+Senador Eloi de Souza,5133,2000
+Senador Georgino Avelino,3253,2000
+Serra de Sao Bento,4678,2000
+Serra do Mel,7138,2000
+Serra Negra do Norte,7367,2000
+Serrinha,5558,2000
+Serrinha dos Pintos,3910,2000
+Severiano Melo,10256,2000
+Sitio Novo,4481,2000
+Taboleiro Grande,2206,2000
+Taipu,10211,2000
+Tangara,11239,2000
+Tenente Ananias,8287,2000
+Tenente Laurentino Cruz,3293,2000
+Tibau,2087,2000
+Tibau do Sul,5901,2000
+Timbauba dos Batistas,2370,2000
+Touros,21420,2000
+Triunfo Potiguar,3847,2000
+Umarizal,10274,2000
+Upanema,11483,2000
+Varzea,7947,2000
+Venha-Ver,2947,2000
+Vera Cruz,10477,2000
+Vicosa,1748,2000
+Vila Flor,2761,2000
+agua Branca,9192,2000
+Aguiar,5750,2000
+Alagoa Grande,29574,2000
+Alagoa Nova,18155,2000
+Alagoinha,12646,2000
+Alcantil,4366,2000
+Algodao de Jandaira,1835,2000
+Alhandra,15673,2000
+Amparo,1575,2000
+Aparecida,4946,2000
+Aracagi,20811,2000
+Arara,10962,2000
+Araruna,15687,2000
+Areia,24575,2000
+Areia de Baraunas,2020,2000
+Areial,6227,2000
+Aroeiras,19419,2000
+Assuncao,2357,2000
+Baia da Traicao,6502,2000
+Bananeiras,20742,2000
+Barauna,2420,2000
+Barra de Santa Rosa,12672,2000
+Barra de Santana,8311,2000
+Barra de Sao Miguel,5616,2000
+Bayeux,89937,2000
+Belem,17434,2000
+Belem do Brejo do Cruz,7113,2000
+Bernardino Batista,2528,2000
+Boa Ventura,5761,2000
+Boa Vista,4622,2000
+Bom Jesus,1800,2000
+Bom Sucesso,5373,2000
+Bonito de Santa Fe,7585,2000
+Boqueirao,16269,2000
+Borborema,4111,2000
+Brejo do Cruz,11603,2000
+Brejo dos Santos,5104,2000
+Caapora,17697,2000
+Cabaceiras,4228,2000
+Cabedelo,37067,2000
+Cachoeira dos indios,8827,2000
+Cacimba de Areia,2995,2000
+Cacimba de Dentro,17002,2000
+Cacimbas,6942,2000
+Caicara,7040,2000
+Cajazeiras,52029,2000
+Cajazeirinhas,3029,2000
+Caldas Brandao,4967,2000
+Camalau,5778,2000
+Campina Grande,356337,2000
+Campo de Santana,9480,2000
+Capim,4179,2000
+Caraubas,3447,2000
+Carrapateira,2119,2000
+Casserengue,6441,2000
+Catingueira,4231,2000
+Catole do Rocha,26342,2000
+Caturite,3886,2000
+Conceicao,17052,2000
+Condado,7164,2000
+Conde,13127,2000
+Congo,4904,2000
+Coremas,14089,2000
+Coxixola,1247,2000
+Cruz do Espirito Santo,13141,2000
+Cubati,6600,2000
+Cuite,19967,2000
+Cuite de Mamanguape,6004,2000
+Cuitegi,7222,2000
+Curral de Cima,5066,2000
+Curral Velho,2479,2000
+Damiao,3197,2000
+Desterro,7620,2000
+Diamante,6603,2000
+Dona Ines,9825,2000
+Duas Estradas,4499,2000
+Emas,2570,2000
+Esperanca,27944,2000
+Fagundes,12151,2000
+Frei Martinho,2957,2000
+Gado Bravo,8454,2000
+Guarabira,55257,2000
+Gurinhem,14782,2000
+Gurjao,2621,2000
+Ibiara,6463,2000
+Igaracy,6010,2000
+Imaculada,9981,2000
+Inga,17287,2000
+Itabaiana,25872,2000
+Itaporanga,22439,2000
+Itapororoca,15144,2000
+Itatuba,9571,2000
+Jacarau,12536,2000
+Jerico,7214,2000
+Joao Pessoa,594968,2000
+Juarez Tavora,7398,2000
+Juazeirinho,13400,2000
+Junco do Serido,5677,2000
+Juripiranga,10671,2000
+Juru,10325,2000
+Lagoa,5056,2000
+Lagoa de Dentro,7459,2000
+Lagoa Seca,24557,2000
+Lastro,3216,2000
+Livramento,7230,2000
+Logradouro,3074,2000
+Lucena,9032,2000
+Mae d'agua,3630,2000
+Malta,5306,2000
+Mamanguape,36695,2000
+Manaira,10555,2000
+Marcacao,5573,2000
+Mari,20097,2000
+Marizopolis,5718,2000
+Massaranduba,11665,2000
+Mataraca,5680,2000
+Matinhas,4623,2000
+Mato Grosso,2197,2000
+Matureia,4879,2000
+Mogeiro,13512,2000
+Montadas,3935,2000
+Monte Horebe,4030,2000
+Monteiro,26092,2000
+Mulungu,10174,2000
+Natuba,10429,2000
+Nazarezinho,7237,2000
+Nova Floresta,9756,2000
+Nova Olinda,7822,2000
+Nova Palmeira,3653,2000
+Olho d'agua,7464,2000
+Olivedos,3345,2000
+Ouro Velho,2954,2000
+Parari,1129,2000
+Passagem,1878,2000
+Patos,91932,2000
+Paulista,11534,2000
+Pedra Branca,3679,2000
+Pedra Lavrada,5841,2000
+Pedras de Fogo,24608,2000
+Pedro Regis,4446,2000
+Pianco,15427,2000
+Picui,16058,2000
+Pilar,9700,2000
+Piloes,6695,2000
+Piloezinhos,5466,2000
+Pirpirituba,10707,2000
+Pitimbu,13066,2000
+Pocinhos,14041,2000
+Poco de Jose de Moura,3801,2000
+Poco Dantas,3284,2000
+Pombal,29676,2000
+Prata,3632,2000
+Princesa Isabel,17205,2000
+Puxinana,11187,2000
+Queimadas,33873,2000
+Quixaba,1378,2000
+Remigio,14145,2000
+Riachao,2479,2000
+Riachao do Bacamarte,3644,2000
+Riachao do Poco,2555,2000
+Riacho de Santo Antonio,1268,2000
+Riacho dos Cavalos,8030,2000
+Rio Tinto,22438,2000
+Salgadinho,3005,2000
+Salgado de Sao Felix,12846,2000
+Santa Cecilia,6521,2000
+Santa Cruz,6489,2000
+Santa Helena,5978,2000
+Santa Ines,3601,2000
+Santa Luzia,13452,2000
+Santa Rita,115502,2000
+Santa Teresinha,4840,2000
+Santana de Mangueira,5469,2000
+Santana dos Garrotes,6961,2000
+Santarem,2446,2000
+Santo Andre,2533,2000
+Sao Bentinho,3126,2000
+Sao Bento,26279,2000
+Sao Domingos de Pombal,2928,2000
+Sao Domingos do Cariri,1792,2000
+Sao Francisco,3174,2000
+Sao Joao do Cariri,5002,2000
+Sao Joao do Rio do Peixe,16038,2000
+Sao Joao do Tigre,4223,2000
+Sao Jose da Lagoa Tapada,8002,2000
+Sao Jose de Caiana,5550,2000
+Sao Jose de Espinharas,4720,2000
+Sao Jose de Piranhas,16078,2000
+Sao Jose de Princesa,5311,2000
+Sao Jose do Bonfim,2770,2000
+Sao Jose do Brejo do Cruz,1413,2000
+Sao Jose do Sabugi,3867,2000
+Sao Jose dos Cordeiros,3863,2000
+Sao Jose dos Ramos,4866,2000
+Sao Mamede,8245,2000
+Sao Miguel de Taipu,5182,2000
+Sao Sebastiao de Lagoa de Roca,10302,2000
+Sao Sebastiao do Umbuzeiro,2795,2000
+Sape,45689,2000
+Serido,9014,2000
+Serra da Raiz,3588,2000
+Serra Branca,12708,2000
+Serra Grande,2952,2000
+Serra Redonda,8340,2000
+Serraria,8076,2000
+Sertaozinho,2287,2000
+Sobrado,7323,2000
+Solanea,31567,2000
+Soledade,10954,2000
+Sossego,2300,2000
+Sousa,58475,2000
+Sume,15112,2000
+Taperoa,12805,2000
+Tavares,13282,2000
+Teixeira,13072,2000
+Tenorio,2282,2000
+Triunfo,9618,2000
+Uirauna,13834,2000
+Umbuzeiro,9451,2000
+Varzea,1939,2000
+Vieiropolis,4482,2000
+Vista Serrana,3347,2000
+Zabele,1726,2000
+Abreu e Lima,83486,2000
+Afogados da Ingazeira,34524,2000
+Afranio,14227,2000
+Agrestina,18713,2000
+agua Preta,25353,2000
+aguas Belas,34424,2000
+Alagoinha,11816,2000
+Alianca,36452,2000
+Altinho,20504,2000
+Amaraji,20905,2000
+Angelim,8028,2000
+Aracoiaba,13092,2000
+Araripina,65941,2000
+Arcoverde,60653,2000
+Barra de Guabiraba,11252,2000
+Barreiros,36867,2000
+Belem de Maria,15478,2000
+Belem de Sao Francisco,20407,2000
+Belo Jardim,73253,2000
+Betania,10262,2000
+Bezerros,52597,2000
+Bodoco,24427,2000
+Bom Conselho,40523,2000
+Bom Jardim,38598,2000
+Bonito,33761,2000
+Brejao,7778,2000
+Brejinho,6799,2000
+Brejo da Madre de Deus,37837,2000
+Buenos Aires,12997,2000
+Buique,38601,2000
+Cabo de Santo Agostinho,152863,2000
+Cabrobo,27549,2000
+Cachoeirinha,15294,2000
+Caetes,18963,2000
+Calcado,11400,2000
+Calumbi,7204,2000
+Camaragibe,121441,2000
+Camocim de Sao Felix,14733,2000
+Camutanga,7959,2000
+Canhotinho,22206,2000
+Capoeiras,19071,2000
+Carnaiba,17811,2000
+Carnaubeira da Penha,10985,2000
+Carpina,55233,2000
+Caruaru,248110,2000
+Casinhas,12607,2000
+Catende,30825,2000
+Cedro,7993,2000
+Cha de Alegria,10759,2000
+Cha Grande,16181,2000
+Condado,21718,2000
+Correntes,19102,2000
+Cortes,14399,2000
+Cumaru,23794,2000
+Cupira,23439,2000
+Custodia,26435,2000
+Dormentes,13577,2000
+Escada,59261,2000
+Exu,30658,2000
+Feira Nova,17935,2000
+Fernando de Noronha,2033,2000
+Ferreiros,9646,2000
+Flores,20032,2000
+Floresta,24435,2000
+Frei Miguelinho,11942,2000
+Gameleira,23108,2000
+Garanhuns,116027,2000
+Gloria do Goita,27985,2000
+Goiana,69454,2000
+Granito,5872,2000
+Gravata,61825,2000
+Iati,15156,2000
+Ibimirim,24384,2000
+Ibirajuba,7373,2000
+Igarassu,79163,2000
+Iguaraci,11479,2000
+Inaja,10639,2000
+Ingazeira,4795,2000
+Ipojuca,52622,2000
+Ipubi,21631,2000
+Itacuruba,4021,2000
+Itaiba,23496,2000
+Itamaraca,15058,2000
+Itambe,33146,2000
+Itapetim,15018,2000
+Itapissuma,20789,2000
+Itaquitinga,14292,2000
+Jaboatao dos Guararapes,567728,2000
+Jaqueira,10914,2000
+Jatauba,18220,2000
+Jatoba,11824,2000
+Joao Alfredo,24604,2000
+Joaquim Nabuco,13378,2000
+Jucati,9454,2000
+Jupi,11552,2000
+Jurema,12367,2000
+Lagoa do Carro,11942,2000
+Lagoa do Itaenga,19210,2000
+Lagoa do Ouro,10504,2000
+Lagoa dos Gatos,14334,2000
+Lagoa Grande,18722,2000
+Lajedo,31731,2000
+Limoeiro,57755,2000
+Macaparana,24373,2000
+Machados,10482,2000
+Manari,11731,2000
+Maraial,11803,2000
+Mirandiba,12428,2000
+Moreilandia,13796,2000
+Moreno,41276,2000
+Nazare da Mata,28723,2000
+Olinda,356418,2000
+Orobo,22606,2000
+Oroco,10631,2000
+Ouricuri,46821,2000
+Palmares,55646,2000
+Palmeirina,9781,2000
+Panelas,24410,2000
+Paranatama,13307,2000
+Parnamirim,18438,2000
+Passira,26597,2000
+Paudalho,42111,2000
+Paulista,253149,2000
+Pedra,19043,2000
+Pesqueira,53556,2000
+Petrolandia,23043,2000
+Petrolina,216622,2000
+Pocao,11264,2000
+Pombos,22273,2000
+Primavera,10717,2000
+Quipapa,18480,2000
+Quixaba,6798,2000
+Recife,1388193,2000
+Riacho das Almas,15979,2000
+Ribeirao,39363,2000
+Rio Formoso,20528,2000
+Saire,14589,2000
+Salgadinho,5867,2000
+Salgueiro,50899,2000
+Saloa,15596,2000
+Sanharo,17297,2000
+Santa Cruz,11241,2000
+Santa Cruz da Baixa Verde,10608,2000
+Santa Cruz do Capibaribe,51286,2000
+Santa Filomena,8969,2000
+Santa Maria da Boa Vista,34594,2000
+Santa Maria do Cambuca,11621,2000
+Santa Terezinha,9437,2000
+Sao Benedito do Sul,12016,2000
+Sao Bento do Una,48837,2000
+Sao Caitano,31477,2000
+Sao Joao,18183,2000
+Sao Joaquim do Monte,20364,2000
+Sao Jose da Coroa Grande,14312,2000
+Sao Jose do Belmonte,31275,2000
+Sao Jose do Egito,28955,2000
+Sao Lourenco da Mata,92706,2000
+Sao Vicente Ferrer,16658,2000
+Serra Talhada,67292,2000
+Serrita,15620,2000
+Sertania,28162,2000
+Sirinhaem,30725,2000
+Solidao,5174,2000
+Surubim,46600,2000
+Tabira,23774,2000
+Tacaimbo,10703,2000
+Tacaratu,15418,2000
+Tamandare,15976,2000
+Taquaritinga do Norte,20371,2000
+Terezinha,6044,2000
+Terra Nova,7261,2000
+Timbauba,55759,2000
+Toritama,20139,2000
+Tracunhaem,12888,2000
+Trindade,20062,2000
+Triunfo,13918,2000
+Tupanatinga,19305,2000
+Tuparetama,8504,2000
+Venturosa,14200,2000
+Verdejante,8642,2000
+Vertente do Lerio,8965,2000
+Vertentes,12376,2000
+Vicencia,25646,2000
+Vitoria de Santo Antao,114449,2000
+Xexeu,14235,2000
+agua Branca,17526,2000
+Anadia,16625,2000
+Arapiraca,180766,2000
+Atalaia,34142,2000
+Barra de Santo Antonio,10386,2000
+Barra de Sao Miguel,6702,2000
+Batalha,13912,2000
+Belem,4667,2000
+Belo Monte,5668,2000
+Boca da Mata,21878,2000
+Branquinha,11009,2000
+Cacimbinhas,7456,2000
+Cajueiro,16188,2000
+Campestre,5926,2000
+Campo Alegre,39607,2000
+Campo Grande,10645,2000
+Canapi,15456,2000
+Capela,20877,2000
+Carneiros,6148,2000
+Cha Preta,6713,2000
+Coite do Noia,10541,2000
+Colonia Leopoldina,18591,2000
+Coqueiro Seco,5263,2000
+Coruripe,43956,2000
+Craibas,19292,2000
+Delmiro Gouveia,40015,2000
+Dois Riachos,12891,2000
+Estrela de Alagoas,15064,2000
+Feira Grande,18716,2000
+Feliz Deserto,4074,2000
+Flexeiras,13056,2000
+Girau do Ponciano,27141,2000
+Ibateguara,12889,2000
+Igaci,22595,2000
+Igreja Nova,19106,2000
+Inhapi,15759,2000
+Jacare dos Homens,5816,2000
+Jacuipe,7611,2000
+Japaratinga,5789,2000
+Jaramataia,5591,2000
+Joaquim Gomes,17465,2000
+Jundia,3997,2000
+Junqueiro,23541,2000
+Lagoa da Canoa,19815,2000
+Limoeiro de Anadia,18892,2000
+Maceio,806167,2000
+Major Isidoro,17399,2000
+Mar Vermelho,4846,2000
+Maragogi,17542,2000
+Maravilha,15580,2000
+Marechal Deodoro,30554,2000
+Maribondo,12222,2000
+Mata Grande,22723,2000
+Matriz de Camaragibe,25706,2000
+Messias,10713,2000
+Minador do Negrao,4725,2000
+Monteiropolis,6681,2000
+Murici,21466,2000
+Novo Lino,9680,2000
+Olho d'agua das Flores,19061,2000
+Olho d'agua do Casado,5275,2000
+Olho d'agua Grande,4662,2000
+Olivenca,10271,2000
+Ouro Branco,8894,2000
+Palestina,4527,2000
+Palmeira dos indios,70097,2000
+Pao de Acucar,25324,2000
+Pariconha,8057,2000
+Paripueira,7372,2000
+Passo de Camaragibe,13564,2000
+Paulo Jacinto,10176,2000
+Penedo,56325,2000
+Piacabucu,14376,2000
+Pilar,31252,2000
+Pindoba,2850,2000
+Piranhas,21957,2000
+Poco das Trincheiras,9440,2000
+Porto de Pedras,11708,2000
+Porto Calvo,25009,2000
+Porto Real do Colegio,17096,2000
+Quebrangulo,12553,2000
+Rio Largo,63072,2000
+Roteiro,7199,2000
+Santa Luzia do Norte,7012,2000
+Santana do Ipanema,39591,2000
+Santana do Mundau,12149,2000
+Sao Bras,6157,2000
+Sao Jose da Laje,22268,2000
+Sao Jose da Tapera,28804,2000
+Sao Luis do Quitunde,30832,2000
+Sao Miguel dos Campos,48866,2000
+Sao Miguel dos Milagres,6133,2000
+Sao Sebastiao,29402,2000
+Satuba,12415,2000
+Senador Rui Palmeira,7158,2000
+Tanque d'Arca,6221,2000
+Taquarana,17163,2000
+Teotonio Vilela,36422,2000
+Traipu,24927,2000
+Uniao dos Palmares,51060,2000
+Vicosa,25914,2000
+Amparo de Sao Francisco,2112,2000
+Aquidaba,18357,2000
+Aracaju,451027,2000
+Araua,10739,2000
+Areia Branca,15964,2000
+Barra dos Coqueiros,18369,2000
+Boquim,24666,2000
+Brejo Grande,6897,2000
+Campo do Brito,16957,2000
+Canhoba,3912,2000
+Caninde de Sao Francisco,16502,2000
+Capela,26693,2000
+Carira,17684,2000
+Carmopolis,8829,2000
+Cedro de Sao Joao,5193,2000
+Cristinapolis,14525,2000
+Cumbe,3655,2000
+Divina Pastora,3001,2000
+Estancia,58840,2000
+Feira Nova,4964,2000
+Frei Paulo,12045,2000
+Gararu,9875,2000
+General Maynard,2492,2000
+Gracho Cardoso,5252,2000
+Ilha das Flores,8072,2000
+Indiaroba,12318,2000
+Itabaiana,80305,2000
+Itabaianinha,33736,2000
+Itabi,4866,2000
+Itaporanga d'Ajuda,19754,2000
+Japaratuba,14138,2000
+Japoata,10121,2000
+Lagarto,78091,2000
+Laranjeiras,23751,2000
+Macambira,5679,2000
+Malhada dos Bois,3141,2000
+Malhador,11447,2000
+Maruim,14234,2000
+Moita Bonita,10676,2000
+Monte Alegre de Sergipe,10400,2000
+Muribeca,7039,2000
+Neopolis,17786,2000
+Nossa Senhora da Gloria,25312,2000
+Nossa Senhora das Dores,21109,2000
+Nossa Senhora de Lourdes,5839,2000
+Nossa Senhora do Socorro,139415,2000
+Nossa Senhora Aparecida,7684,2000
+Pacatuba,10950,2000
+Pedra Mole,2460,2000
+Pedrinhas,8433,2000
+Pinhao,5009,2000
+Pirambu,6735,2000
+Poco Redondo,18359,2000
+Poco Verde,17245,2000
+Porto da Folha,22723,2000
+Propria,26944,2000
+Riachao do Dantas,18477,2000
+Riachuelo,8011,2000
+Ribeiropolis,14958,2000
+Rosario do Catete,7442,2000
+Salgado,18221,2000
+Santa Luzia do Itanhy,12407,2000
+Santa Rosa de Lima,3297,2000
+Santana do Sao Francisco,5655,2000
+Santo Amaro das Brotas,9823,2000
+Sao Cristovao,64146,2000
+Sao Domingos,8870,2000
+Sao Francisco,2726,2000
+Sao Miguel do Aleixo,3038,2000
+Simao Dias,34949,2000
+Siriri,7240,2000
+Telha,2684,2000
+Tobias Barreto,43533,2000
+Tomar do Geru,14172,2000
+Umbauba,18749,2000
+Abaira,14798,2000
+Abare,13062,2000
+Acajutiba,13362,2000
+Adustina,10369,2000
+agua Fria,14319,2000
+Aiquara,6806,2000
+Alagoinhas,128075,2000
+Alcobaca,16615,2000
+Almadina,6905,2000
+Amargosa,32115,2000
+Amelia Rodrigues,24496,2000
+America Dourada,13033,2000
+Anage,45765,2000
+Andarai,18664,2000
+Andorinha,17669,2000
+Angical,12606,2000
+Anguera,8821,2000
+Antas,9612,2000
+Antonio Cardoso,10953,2000
+Antonio Goncalves,13744,2000
+Apora,13057,2000
+Apuarema,11558,2000
+Aracas,12993,2000
+Aracatu,20011,2000
+Araci,59648,2000
+Aramari,10092,2000
+Arataca,10537,2000
+Aratuipe,8671,2000
+Aurelino Leal,17095,2000
+Baianopolis,10980,2000
+Baixa Grande,20932,2000
+Banzae,9218,2000
+Barra,40578,2000
+Barra da Estiva,24085,2000
+Barra do Choca,45628,2000
+Barra do Mendes,11236,2000
+Barra do Rocha,7543,2000
+Barreiras,132247,2000
+Barro Alto,9757,2000
+Barro Preto,5937,2000
+Belmonte,17912,2000
+Belo Campo,15802,2000
+Biritinga,12127,2000
+Boa Nova,20235,2000
+Boa Vista do Tupim,18852,2000
+Bom Jesus da Lapa,55230,2000
+Bom Jesus da Serra,13835,2000
+Boninal,13885,2000
+Bonito,16821,2000
+Boquira,21780,2000
+Botupora,14285,2000
+Brejoes,17884,2000
+Brejolandia,8059,2000
+Brotas de Macaubas,13813,2000
+Brumado,65492,2000
+Buerarema,17008,2000
+Buritirama,17862,2000
+Caatiba,16888,2000
+Cabaceiras do Paraguacu,14963,2000
+Cachoeira,31823,2000
+Cacule,23978,2000
+Caem,17276,2000
+Caetanos,13203,2000
+Caetite,45769,2000
+Cafarnaum,14388,2000
+Cairu,7148,2000
+Caldeirao Grande,16404,2000
+Camacan,30292,2000
+Camacari,153635,2000
+Camamu,28157,2000
+Campo Alegre de Lourdes,25023,2000
+Campo Formoso,54802,2000
+Canapolis,10372,2000
+Canarana,21187,2000
+Canavieiras,35828,2000
+Candeal,8535,2000
+Candeias,70358,2000
+Candiba,12392,2000
+Candido Sales,26800,2000
+Cansancao,31363,2000
+Canudos,20166,2000
+Capela do Alto Alegre,10376,2000
+Capim Grosso,31395,2000
+Caraibas,12732,2000
+Caravelas,16091,2000
+Cardeal da Silva,8242,2000
+Carinhanha,26488,2000
+Casa Nova,51411,2000
+Castro Alves,27160,2000
+Catolandia,2620,2000
+Catu,49694,2000
+Caturama,12047,2000
+Central,14881,2000
+Chorrocho,9247,2000
+Cicero Dantas,29805,2000
+Cipo,13519,2000
+Coaraci,23981,2000
+Cocos,17908,2000
+Conceicao da Feira,17998,2000
+Conceicao do Almeida,20601,2000
+Conceicao do Coite,51230,2000
+Conceicao do Jacuipe,25375,2000
+Conde,21848,2000
+Condeuba,18084,2000
+Contendas do Sincora,5271,2000
+Coracao de Maria,22728,2000
+Cordeiros,10823,2000
+Coribe,18182,2000
+Coronel Joao Sa,22247,2000
+Correntina,31239,2000
+Cotegipe,12201,2000
+Cravolandia,4907,2000
+Crisopolis,16947,2000
+Cristopolis,13038,2000
+Cruz das Almas,52196,2000
+Curaca,25529,2000
+Dario Meira,17630,2000
+Dias d'avila,44080,2000
+Dom Basilio,10066,2000
+Dom Macedo Costa,3142,2000
+Elisio Medrado,8011,2000
+Encruzilhada,36001,2000
+Entre Rios,37644,2000
+erico Cardoso,8448,2000
+Esplanada,29549,2000
+Euclides da Cunha,46380,2000
+Eunapolis,99959,2000
+Fatima,17980,2000
+Feira da Mata,6532,2000
+Feira de Santana,489291,2000
+Filadelfia,18945,2000
+Firmino Alves,6115,2000
+Floresta Azul,11483,2000
+Formosa do Rio Preto,16818,2000
+Gandu,34100,2000
+Gaviao,4269,2000
+Gentio do Ouro,8024,2000
+Gloria,13810,2000
+Gongogi,12576,2000
+Governador Mangabeira,14664,2000
+Guajeru,14344,2000
+Guanambi,72151,2000
+Guaratinga,21186,2000
+Heliopolis,12756,2000
+Iacu,29193,2000
+Ibiassuce,9425,2000
+Ibicarai,29780,2000
+Ibicoara,9585,2000
+Ibicui,15225,2000
+Ibipeba,12625,2000
+Ibipitanga,13648,2000
+Ibiquera,3913,2000
+Ibirapitanga,22681,2000
+Ibirapua,6316,2000
+Ibirataia,29686,2000
+Ibitiara,13764,2000
+Ibitita,16839,2000
+Ibotirama,25026,2000
+Ichu,11218,2000
+Igapora,15471,2000
+Igrapiuna,13852,2000
+Iguai,19924,2000
+Ilheus,258917,2000
+Inhambupe,26267,2000
+Ipecaeta,18162,2000
+Ipiau,39170,2000
+Ipira,63484,2000
+Ipupiara,8788,2000
+Irajuba,6962,2000
+Iramaia,18658,2000
+Iraquara,18974,2000
+Irara,25836,2000
+Irece,52910,2000
+Itabela,31278,2000
+Itaberaba,59297,2000
+Itabuna,181752,2000
+Itacare,14755,2000
+Itaete,14600,2000
+Itagi,15880,2000
+Itagiba,13844,2000
+Itagimirim,5872,2000
+Itaguacu da Bahia,9891,2000
+Itaju do Colonia,7577,2000
+Itajuipe,27494,2000
+Itamaraju,61529,2000
+Itamari,6754,2000
+Itambe,34258,2000
+Itanagra,3873,2000
+Itanhem,22778,2000
+Itaparica,21007,2000
+Itape,12602,2000
+Itapebi,11402,2000
+Itapetinga,54947,2000
+Itapicuru,24132,2000
+Itapitanga,10187,2000
+Itaquara,7461,2000
+Itarantim,13974,2000
+Itatim,13164,2000
+Itirucu,14424,2000
+Itiuba,35232,2000
+Itororo,16799,2000
+Ituacu,21714,2000
+Itubera,20860,2000
+Iuiu,11768,2000
+Jaborandi,8567,2000
+Jacaraci,13392,2000
+Jacobina,99464,2000
+Jaguaquara,43774,2000
+Jaguarari,43439,2000
+Jaguaripe,13343,2000
+Jandaira,9264,2000
+Jequie,183472,2000
+Jeremoabo,30811,2000
+Jiquirica,15832,2000
+Jitauna,15376,2000
+Joao Dourado,15955,2000
+Juazeiro,210215,2000
+Jucurucu,10554,2000
+Jussara,11484,2000
+Jussari,8665,2000
+Jussiape,12729,2000
+Lafaiete Coutinho,4123,2000
+Lagoa Real,12461,2000
+Laje,20523,2000
+Lajedao,3709,2000
+Lajedinho,3740,2000
+Lajedo do Tabocal,10238,2000
+Lamarao,10084,2000
+Lapao,22520,2000
+Lauro de Freitas,113023,2000
+Lencois,10960,2000
+Licinio de Almeida,11567,2000
+Livramento do Brumado,35440,2000
+Macajuba,10857,2000
+Macarani,20026,2000
+Macaubas,44685,2000
+Macurure,7361,2000
+Madre de Deus,10438,2000
+Maetinga,13015,2000
+Maiquinique,6191,2000
+Mairi,16933,2000
+Malhada,14746,2000
+Malhada de Pedras,7912,2000
+Manoel Vitorino,13586,2000
+Mansidao,11360,2000
+Maracas,35033,2000
+Maragogipe,33193,2000
+Marau,18043,2000
+Marcionilio Souza,13226,2000
+Mascote,14808,2000
+Mata de Sao Joao,34131,2000
+Matina,11005,2000
+Medeiros Neto,25142,2000
+Miguel Calmon,37374,2000
+Milagres,14034,2000
+Mirangaba,19903,2000
+Mirante,12110,2000
+Monte Santo,53198,2000
+Morpara,9611,2000
+Morro do Chapeu,32373,2000
+Mortugaba,12364,2000
+Mucuge,15156,2000
+Mucuri,27115,2000
+Mulungu do Morro,15245,2000
+Mundo Novo,19336,2000
+Muniz Ferreira,7081,2000
+Muquem de Sao Francisco,10920,2000
+Muritiba,31498,2000
+Mutuipe,17730,2000
+Nazare,23189,2000
+Nilo Pecanha,19541,2000
+Nordestina,11735,2000
+Nova Canaa,13993,2000
+Nova Fatima,5981,2000
+Nova Ibia,14525,2000
+Nova Itarana,6391,2000
+Nova Redencao,14659,2000
+Nova Soure,21031,2000
+Nova Vicosa,28736,2000
+Novo Horizonte,12660,2000
+Novo Triunfo,15401,2000
+Olindina,23672,2000
+Oliveira dos Brejinhos,21481,2000
+Ouricangas,7796,2000
+Ourolandia,16433,2000
+Palmas de Monte Alto,20841,2000
+Palmeiras,11410,2000
+Paramirim,28410,2000
+Paratinga,23855,2000
+Paripiranga,26878,2000
+Pau Brasil,12147,2000
+Paulo Afonso,98451,2000
+Pe de Serra,11185,2000
+Pedrao,7393,2000
+Pedro Alexandre,15351,2000
+Piata,17721,2000
+Pilao Arcado,30991,2000
+Pindai,13030,2000
+Pindobacu,24853,2000
+Pintadas,10248,2000
+Pirai do Norte,20906,2000
+Piripa,17025,2000
+Piritiba,17476,2000
+Planaltino,6531,2000
+Planalto,23893,2000
+Pocoes,41417,2000
+Pojuca,24621,2000
+Ponto Novo,18847,2000
+Porto Seguro,75517,2000
+Potiragua,17043,2000
+Prado,25335,2000
+Presidente Dutra,10752,2000
+Presidente Janio Quadros,20061,2000
+Presidente Tancredo Neves,16082,2000
+Queimadas,24909,2000
+Quijingue,23690,2000
+Quixabeira,15516,2000
+Rafael Jambeiro,19438,2000
+Remanso,33599,2000
+Retirolandia,11744,2000
+Riachao das Neves,22224,2000
+Riachao do Jacuipe,28131,2000
+Riacho de Santana,30204,2000
+Ribeira do Amparo,11508,2000
+Ribeira do Pombal,41683,2000
+Ribeirao do Largo,16027,2000
+Rio de Contas,11624,2000
+Rio do Antonio,14469,2000
+Rio do Pires,9145,2000
+Rio Real,31840,2000
+Rodelas,6103,2000
+Ruy Barbosa,26605,2000
+Salinas da Margarida,11105,2000
+Salvador,2331612,2000
+Santa Barbara,18080,2000
+Santa Brigida,19971,2000
+Santa Cruz da Vitoria,7410,2000
+Santa Cruz Cabralia,20257,2000
+Santa Ines,11330,2000
+Santa Luzia,16087,2000
+Santa Maria da Vitoria,42613,2000
+Santa Rita de Cassia,22602,2000
+Santa Teresinha,9061,2000
+Santaluz,31275,2000
+Santana,21402,2000
+Santanopolis,7294,2000
+Santo Amaro,59253,2000
+Santo Antonio de Jesus,83625,2000
+Santo Estevao,41344,2000
+Sao Desiderio,18494,2000
+Sao Domingos,7045,2000
+Sao Felipe,20333,2000
+Sao Felix,13803,2000
+Sao Felix do Coribe,12869,2000
+Sao Francisco do Conde,28297,2000
+Sao Gabriel,18377,2000
+Sao Goncalo dos Campos,27505,2000
+Sao Jose da Vitoria,5718,2000
+Sao Jose do Jacuipe,17994,2000
+Sao Miguel das Matas,10537,2000
+Sao Sebastiao do Passe,40409,2000
+Sapeacu,15476,2000
+Satiro Dias,17880,2000
+Saubara,10487,2000
+Saude,20311,2000
+Seabra,42904,2000
+Sebastiao Laranjeiras,6930,2000
+Senhor do Bonfim,85795,2000
+Sento Se,32063,2000
+Serra do Ramalho,27503,2000
+Serra Dourada,19689,2000
+Serra Preta,15026,2000
+Serrinha,82886,2000
+Serrolandia,13124,2000
+Simoes Filho,82275,2000
+Sitio do Mato,9895,2000
+Sitio do Quinto,16025,2000
+Sobradinho,20682,2000
+Souto Soares,18857,2000
+Tabocas do Brejo Velho,12305,2000
+Tanhacu,23689,2000
+Tanque Novo,16515,2000
+Tanquinho,6514,2000
+Taperoa,21773,2000
+Tapiramuta,13946,2000
+Teixeira de Freitas,112201,2000
+Teodoro Sampaio,7701,2000
+Teofilandia,18321,2000
+Teolandia,10353,2000
+Terra Nova,13623,2000
+Tremedal,27885,2000
+Tucano,40949,2000
+Uaua,23780,2000
+Ubaira,30887,2000
+Ubaitaba,24059,2000
+Ubata,23091,2000
+Uibai,12886,2000
+Umburanas,18180,2000
+Una,36172,2000
+Urandi,18248,2000
+Urucuca,21402,2000
+Utinga,18797,2000
+Valenca,86798,2000
+Valente,17526,2000
+Varzea da Roca,14546,2000
+Varzea do Poco,12199,2000
+Varzea Nova,10850,2000
+Varzedo,8867,2000
+Vera Cruz,32119,2000
+Vereda,6136,2000
+Vitoria da Conquista,257190,2000
+Wagner,9927,2000
+Wanderley,13091,2000
+Wenceslau Guimaraes,25899,2000
+Xique-Xique,41288,2000
+Abadia dos Dourados,6351,2000
+Abaete,22994,2000
+Abre Campo,12260,2000
+Acaiaca,3944,2000
+Acucena,10907,2000
+agua Boa,17018,2000
+agua Comprida,2316,2000
+Aguanil,3294,2000
+aguas Formosas,17510,2000
+aguas Vermelhas,11344,2000
+Aimores,23575,2000
+Aiuruoca,6388,2000
+Alagoa,2816,2000
+Albertina,2946,2000
+Alem Paraiba,33383,2000
+Alfenas,64674,2000
+Alfredo Vasconcelos,5106,2000
+Almenara,31039,2000
+Alpercata,6905,2000
+Alpinopolis,16422,2000
+Alterosa,12721,2000
+Alto Caparao,4029,2000
+Alto Jequitiba,7605,2000
+Alto Rio Doce,12146,2000
+Alvarenga,4961,2000
+Alvinopolis,14859,2000
+Alvorada de Minas,3354,2000
+Amparo do Serra,5012,2000
+Andradas,30704,2000
+Andrelandia,12680,2000
+Angelandia,5813,2000
+Antonio Carlos,10739,2000
+Antonio Dias,9480,2000
+Antonio Prado de Minas,1683,2000
+Aracai,2322,2000
+Aracitaba,2468,2000
+Aracuai,36082,2000
+Araguari,99343,2000
+Arantina,2901,2000
+Araponga,7041,2000
+Arapora,5365,2000
+Arapua,2589,2000
+Araujos,6515,2000
+Araxa,77270,2000
+Arceburgo,8015,2000
+Arcos,32507,2000
+Areado,11788,2000
+Argirita,3134,2000
+Aricanduva,3817,2000
+Arinos,17327,2000
+Astolfo Dutra,11206,2000
+Ataleia,14430,2000
+Augusto de Lima,4417,2000
+Baependi,16961,2000
+Baldim,7306,2000
+Bambui,22062,2000
+Bandeira,4746,2000
+Bandeira do Sul,5138,2000
+Barao de Cocais,24783,2000
+Barao de Monte Alto,6382,2000
+Barbacena,114738,2000
+Barra Longa,7542,2000
+Barroso,20451,2000
+Bela Vista de Minas,10530,2000
+Belmiro Braga,3204,2000
+Belo Horizonte,2154161,2000
+Belo Oriente,19809,2000
+Belo Vale,6873,2000
+Berilo,12938,2000
+Berizal,3123,2000
+Bertopolis,3846,2000
+Betim,318694,2000
+Bias Fortes,4284,2000
+Bicas,12285,2000
+Biquinhas,2606,2000
+Boa Esperanca,35603,2000
+Bocaina de Minas,5289,2000
+Bocaiuva,41980,2000
+Bom Despacho,39256,2000
+Bom Jardim de Minas,7328,2000
+Bom Jesus da Penha,3583,2000
+Bom Jesus do Amparo,4840,2000
+Bom Jesus do Galho,14837,2000
+Bom Repouso,11623,2000
+Bom Sucesso,17642,2000
+Bonfim,7266,2000
+Bonfinopolis de Minas,6034,2000
+Bonito de Minas,7261,2000
+Borda da Mata,12874,2000
+Botelhos,15305,2000
+Botumirim,6255,2000
+Bras Pires,4947,2000
+Brasilandia de Minas,10315,2000
+Brasilia de Minas,27287,2000
+Brasopolis,15173,2000
+Braunas,5247,2000
+Brumadinho,26693,2000
+Bueno Brandao,10451,2000
+Buenopolis,9752,2000
+Bugre,3800,2000
+Buritis,21713,2000
+Buritizeiro,22495,2000
+Cabeceira Grande,5630,2000
+Cabo Verde,12563,2000
+Cachoeira da Prata,3751,2000
+Cachoeira de Minas,10260,2000
+Cachoeira de Pajeu,9548,2000
+Cachoeira Dourada,2253,2000
+Caetanopolis,7862,2000
+Caete,36309,2000
+Caiana,3894,2000
+Cajuri,3762,2000
+Caldas,13558,2000
+Camacho,3175,2000
+Camanducaia,17408,2000
+Cambui,22506,2000
+Cambuquira,12512,2000
+Campanario,3718,2000
+Campanha,14984,2000
+Campestre,18946,2000
+Campina Verde,17901,2000
+Campo do Meio,11020,2000
+Campo Azul,3051,2000
+Campo Belo,49325,2000
+Campo Florido,4828,2000
+Campos Altos,12201,2000
+Campos Gerais,24610,2000
+Cana Verde,5652,2000
+Canaa,4517,2000
+Canapolis,9598,2000
+Candeias,14517,2000
+Cantagalo,3629,2000
+Caparao,4711,2000
+Capela Nova,5043,2000
+Capelinha,31106,2000
+Capetinga,7394,2000
+Capim Branco,7707,2000
+Capinopolis,14833,2000
+Capitao Andrade,4404,2000
+Capitao Eneas,14427,2000
+Capitolio,7985,2000
+Caputira,8462,2000
+Carai,18635,2000
+Caranaiba,3725,2000
+Carandai,22274,2000
+Carangola,31713,2000
+Caratinga,73139,2000
+Carbonita,10054,2000
+Careacu,5638,2000
+Carlos Chagas,23633,2000
+Carmesia,2164,2000
+Carmo da Cachoeira,11226,2000
+Carmo da Mata,10542,2000
+Carmo de Minas,12241,2000
+Carmo do Cajuru,17666,2000
+Carmo do Paranaiba,29658,2000
+Carmo do Rio Claro,19245,2000
+Carmopolis de Minas,14822,2000
+Carneirinho,8448,2000
+Carrancas,3717,2000
+Carvalhopolis,3050,2000
+Carvalhos,4765,2000
+Casa Grande,2260,2000
+Cascalho Rico,2072,2000
+Cassia,18740,2000
+Cataguases,64544,2000
+Catas Altas,4148,2000
+Catas Altas da Noruega,3414,2000
+Catuji,5736,2000
+Catuti,4897,2000
+Caxambu,23079,2000
+Cedro do Abaete,1188,2000
+Central de Minas,5712,2000
+Centralina,9411,2000
+Chacara,4832,2000
+Chale,4740,2000
+Chapada do Norte,13218,2000
+Chapada Gaucha,5265,2000
+Chiador,3118,2000
+Cipotanea,6669,2000
+Claraval,4160,2000
+Claro dos Pocoes,6802,2000
+Claudio,22518,2000
+Coimbra,6653,2000
+Coluna,7881,2000
+Comendador Gomes,2619,2000
+Comercinho,10093,2000
+Conceicao da Aparecida,9329,2000
+Conceicao da Barra de Minas,4185,2000
+Conceicao das Alagoas,16767,2000
+Conceicao das Pedras,2746,2000
+Conceicao de Ipanema,4122,2000
+Conceicao do Mato Dentro,19260,2000
+Conceicao do Para,5206,2000
+Conceicao do Rio Verde,11557,2000
+Conceicao dos Ouros,8357,2000
+Conego Marinho,6422,2000
+Confins,4680,2000
+Congonhal,8422,2000
+Congonhas,42522,2000
+Congonhas do Norte,4998,2000
+Conquista,6174,2000
+Conselheiro Lafaiete,98442,2000
+Conselheiro Pena,21079,2000
+Consolacao,1846,2000
+Contagem,529805,2000
+Coqueiral,8009,2000
+Coracao de Jesus,27148,2000
+Cordisburgo,9212,2000
+Cordislandia,3350,2000
+Corinto,24392,2000
+Coroaci,9448,2000
+Coromandel,27206,2000
+Coronel Fabriciano,96853,2000
+Coronel Murta,10079,2000
+Coronel Pacheco,2822,2000
+Coronel Xavier Chaves,3277,2000
+Corrego do Bom Jesus,3969,2000
+Corrego Danta,3392,2000
+Corrego Fundo,5022,2000
+Corrego Novo,3374,2000
+Couto de Magalhaes de Minas,4395,2000
+Crisolita,5248,2000
+Cristais,9432,2000
+Cristalia,5060,2000
+Cristiano Otoni,5044,2000
+Cristina,12774,2000
+Crucilandia,3933,2000
+Cruzeiro da Fortaleza,3370,2000
+Cruzilia,14477,2000
+Cuparaque,3992,2000
+Curral de Dentro,5373,2000
+Curvelo,69614,2000
+Datas,5520,2000
+Delfim Moreira,7980,2000
+Delfinopolis,5973,2000
+Delta,5497,2000
+Descoberto,4819,2000
+Desterro de Entre Rios,6701,2000
+Desterro do Melo,3057,2000
+Diamantina,42902,2000
+Diogo de Vasconcelos,3636,2000
+Dionisio,8458,2000
+Divinesia,3270,2000
+Divino,17973,2000
+Divino das Laranjeiras,4697,2000
+Divinolandia de Minas,7038,2000
+Divinopolis,189294,2000
+Divisa Alegre,4485,2000
+Divisa Nova,5438,2000
+Divisopolis,5926,2000
+Dom Bosco,3722,2000
+Dom Cavati,5364,2000
+Dom Joaquim,5078,2000
+Dom Silverio,4926,2000
+Dom Vicoso,3390,2000
+Dona Euzebia,5614,2000
+Dores de Campos,8490,2000
+Dores de Guanhaes,5338,2000
+Dores do Indaia,15300,2000
+Dores do Turvo,4401,2000
+Doresopolis,1490,2000
+Douradoquara,1741,2000
+Durande,7062,2000
+Eloi Mendes,21023,2000
+Engenheiro Caldas,8537,2000
+Engenheiro Navarro,6274,2000
+Entre Folhas,4918,2000
+Entre Rios de Minas,13341,2000
+Ervalia,15868,2000
+Esmeraldas,37221,2000
+Espera Feliz,17874,2000
+Espinosa,32853,2000
+Espirito Santo do Dourado,4137,2000
+Estiva,10369,2000
+Estrela do Indaia,3514,2000
+Estrela do Sul,6964,2000
+Estrela Dalva,3054,2000
+Eugenopolis,9557,2000
+Ewbank da Camara,3578,2000
+Extrema,20736,2000
+Fama,2327,2000
+Faria Lemos,3838,2000
+Felicio dos Santos,5124,2000
+Felisburgo,8019,2000
+Felixlandia,12135,2000
+Fernandes Tourinho,2672,2000
+Ferros,11336,2000
+Fervedouro,9266,2000
+Florestal,5558,2000
+Formiga,62092,2000
+Formoso,5766,2000
+Fortaleza de Minas,3658,2000
+Fortuna de Minas,2258,2000
+Francisco Badaro,10457,2000
+Francisco Dumont,4441,2000
+Francisco Sa,22484,2000
+Franciscopolis,6286,2000
+Frei Gaspar,6238,2000
+Frei Inocencio,8882,2000
+Frei Lagonegro,2846,2000
+Fronteira,8702,2000
+Fronteira dos Vales,5146,2000
+Fruta de Leite,7092,2000
+Frutal,50103,2000
+Funilandia,3095,2000
+Galileia,6811,2000
+Gameleiras,4678,2000
+Glaucilandia,2530,2000
+Goiabeira,2449,2000
+Goiana,3378,2000
+Goncalves,3279,2000
+Gonzaga,5274,2000
+Gouvea,11287,2000
+Governador Valadares,231875,2000
+Grao Mogol,14561,2000
+Grupiara,1599,2000
+Guanhaes,27613,2000
+Guape,14565,2000
+Guaraciaba,10247,2000
+Guaraciama,4221,2000
+Guaranesia,19237,2000
+Guarani,8202,2000
+Guarara,4456,2000
+Guarda-Mor,6989,2000
+Guaxupe,47528,2000
+Guidoval,7261,2000
+Guimarania,5789,2000
+Guiricema,8724,2000
+Gurinhata,6579,2000
+Heliodora,5678,2000
+Iapu,8830,2000
+Ibertioga,4953,2000
+Ibia,21675,2000
+Ibiai,6962,2000
+Ibiracatu,5732,2000
+Ibiraci,8218,2000
+Ibirite,132030,2000
+Ibitiura de Minas,2985,2000
+Ibituruna,2810,2000
+Icarai de Minas,7674,2000
+Igarape,19637,2000
+Igaratinga,7499,2000
+Iguatama,9118,2000
+Ijaci,5348,2000
+Ilicinea,10778,2000
+Imbe de Minas,4734,2000
+Inconfidentes,6386,2000
+Indaiabira,6864,2000
+Indianopolis,6024,2000
+Ingai,2444,2000
+Inhapim,24846,2000
+Inhauma,4636,2000
+Inimutaba,5197,2000
+Ipaba,14696,2000
+Ipanema,16476,2000
+Ipatinga,209660,2000
+Ipiacu,3649,2000
+Ipuiuna,9203,2000
+Irai de Minas,5234,2000
+Itabira,104426,2000
+Itabirinha de Mantena,8869,2000
+Itabirito,38644,2000
+Itacambira,4434,2000
+Itacarambi,16287,2000
+Itaguara,11665,2000
+Itaipe,10295,2000
+Itajuba,83357,2000
+Itamarandiba,28116,2000
+Itamarati de Minas,3531,2000
+Itambacuri,23422,2000
+Itambe do Mato Dentro,2392,2000
+Itamogi,10238,2000
+Itamonte,12357,2000
+Itanhandu,13499,2000
+Itanhomi,10926,2000
+Itaobim,22621,2000
+Itapagipe,11415,2000
+Itapecerica,21766,2000
+Itapeva,7095,2000
+Itatiaiucu,9124,2000
+Itau de Minas,13654,2000
+Itauna,73848,2000
+Itaverava,6818,2000
+Itinga,15162,2000
+Itueta,5477,2000
+Ituiutaba,91375,2000
+Itumirim,6611,2000
+Iturama,27102,2000
+Itutinga,4159,2000
+Jaboticatubas,12260,2000
+Jacinto,11708,2000
+Jacui,7866,2000
+Jacutinga,14718,2000
+Jaguaracu,2377,2000
+Jaiba,25525,2000
+Jampruca,5073,2000
+Janauba,63007,2000
+Januaria,63155,2000
+Japaraiba,3609,2000
+Japonvar,6211,2000
+Jeceaba,5574,2000
+Jenipapo de Minas,7098,2000
+Jequeri,12574,2000
+Jequitai,7519,2000
+Jequitiba,5373,2000
+Jequitinhonha,24426,2000
+Jesuania,4784,2000
+Joaima,15507,2000
+Joanesia,6157,2000
+Joao Monlevade,64248,2000
+Joao Pinheiro,38580,2000
+Joaquim Felicio,3721,2000
+Jordania,10508,2000
+Jose Goncalves de Minas,4408,2000
+Jose Raydan,3828,2000
+Josenopolis,4246,2000
+Juatuba,13621,2000
+Juiz de Fora,458417,2000
+Juramento,3739,2000
+Juruaia,7212,2000
+Juvenilia,7353,2000
+Ladainha,14201,2000
+Lagamar,7872,2000
+Lagoa da Prata,37766,2000
+Lagoa dos Patos,4919,2000
+Lagoa Dourada,12022,2000
+Lagoa Formosa,15710,2000
+Lagoa Grande,7566,2000
+Lagoa Santa,33738,2000
+Lajinha,14994,2000
+Lambari,18926,2000
+Lamim,3440,2000
+Laranjal,5803,2000
+Lassance,5801,2000
+Lavras,80012,2000
+Leandro Ferreira,3187,2000
+Leme do Prado,4460,2000
+Leopoldina,47456,2000
+Liberdade,5921,2000
+Lima Duarte,15081,2000
+Limeira do Oeste,5998,2000
+Lontra,7644,2000
+Luisburgo,5322,2000
+Luislandia,4815,2000
+Luminarias,5646,2000
+Luz,17638,2000
+Machacalis,6658,2000
+Machado,33450,2000
+Madre de Deus de Minas,4700,2000
+Malacacheta,17221,2000
+Mamonas,5989,2000
+Manga,22691,2000
+Manhuacu,59842,2000
+Manhumirim,17496,2000
+Mantena,26328,2000
+Mar de Espanha,10620,2000
+Maravilhas,6613,2000
+Maria da Fe,15008,2000
+Mariana,41878,2000
+Marilac,4330,2000
+Mario Campos,8988,2000
+Maripa de Minas,2743,2000
+Marlieria,4138,2000
+Marmelopolis,3499,2000
+Martinho Campos,10389,2000
+Martins Soares,4194,2000
+Mata Verde,6980,2000
+Materlandia,4999,2000
+Mateus Leme,22727,2000
+Mathias Lobato,3761,2000
+Matias Barbosa,13541,2000
+Matias Cardoso,8825,2000
+Matipo,14581,2000
+Mato Verde,12039,2000
+Matozinhos,29310,2000
+Matutina,4021,2000
+Medeiros,2980,2000
+Medina,19744,2000
+Mendes Pimentel,6042,2000
+Merces,9943,2000
+Mesquita,6058,2000
+Minas Novas,28598,2000
+Minduri,4114,2000
+Mirabela,9853,2000
+Miradouro,8599,2000
+Mirai,15128,2000
+Miravania,3945,2000
+Moeda,4575,2000
+Moema,6444,2000
+Monjolos,2461,2000
+Monsenhor Paulo,6177,2000
+Montalvania,16101,2000
+Monte Alegre de Minas,19140,2000
+Monte Azul,22700,2000
+Monte Belo,11850,2000
+Monte Carmelo,43821,2000
+Monte Formoso,4235,2000
+Monte Santo de Minas,20611,2000
+Monte Siao,20326,2000
+Montes Claros,290609,2000
+Montezuma,6898,2000
+Morada Nova de Minas,6821,2000
+Morro da Garca,2704,2000
+Morro do Pilar,3963,2000
+Munhoz,6766,2000
+Muriae,88412,2000
+Mutum,24472,2000
+Muzambinho,19803,2000
+Nacip Raydan,3314,2000
+Nanuque,39141,2000
+Naque,5064,2000
+Natalandia,2726,2000
+Natercia,4468,2000
+Nazareno,7455,2000
+Nepomuceno,25794,2000
+Ninheira,8002,2000
+Nova Belem,4320,2000
+Nova Era,17224,2000
+Nova Lima,62477,2000
+Nova Modica,3906,2000
+Nova Ponte,7566,2000
+Nova Porteirinha,6433,2000
+Nova Resende,13935,2000
+Nova Serrana,30148,2000
+Nova Uniao,5335,2000
+Novo Cruzeiro,25193,2000
+Novo Oriente de Minas,8280,2000
+Novorizonte,3968,2000
+Olaria,2027,2000
+Olhos-D'agua,3969,2000
+Olimpio Noronha,2241,2000
+Oliveira,38450,2000
+Oliveira Fortes,2341,2000
+Onca de Pitangui,2517,2000
+Oratorios,4454,2000
+Orizania,5888,2000
+Ouro Branco,32667,2000
+Ouro Fino,26858,2000
+Ouro Preto,60919,2000
+Ouro Verde de Minas,9580,2000
+Padre Carvalho,5146,2000
+Padre Paraiso,17021,2000
+Pai Pedro,5039,2000
+Paineiras,4685,2000
+Pains,9803,2000
+Paiva,1692,2000
+Palma,6956,2000
+Palmopolis,7617,2000
+Papagaios,14186,2000
+Para de Minas,75227,2000
+Paracatu,74637,2000
+Paraguacu,19543,2000
+Paraisopolis,17927,2000
+Paraopeba,20427,2000
+Passa Quatro,14783,2000
+Passa Tempo,7963,2000
+Passa Vinte,2096,2000
+Passabem,2084,2000
+Passos,100700,2000
+Patis,3973,2000
+Patos de Minas,121325,2000
+Patrocinio,75110,2000
+Patrocinio do Muriae,4808,2000
+Paula Candido,9868,2000
+Paulistas,4753,2000
+Pavao,12824,2000
+Pecanha,17668,2000
+Pedra do Anta,3644,2000
+Pedra do Indaia,3506,2000
+Pedra Azul,24133,2000
+Pedra Bonita,5094,2000
+Pedra Dourada,1737,2000
+Pedralva,12012,2000
+Pedras de Maria da Cruz,7075,2000
+Pedrinopolis,5675,2000
+Pedro Leopoldo,51927,2000
+Pedro Teixeira,1701,2000
+Pequeri,3004,2000
+Pequi,3795,2000
+Perdigao,5304,2000
+Perdizes,10394,2000
+Perdoes,19500,2000
+Periquito,6911,2000
+Pescador,4457,2000
+Piau,3107,2000
+Piedade de Caratinga,4922,2000
+Piedade de Ponte Nova,3714,2000
+Piedade do Rio Grande,4892,2000
+Piedade dos Gerais,3697,2000
+Pimenta,8139,2000
+Pingo D'agua,3430,2000
+Pintopolis,5752,2000
+Piracema,6535,2000
+Pirajuba,2680,2000
+Piranga,17655,2000
+Pirangucu,4854,2000
+Piranguinho,6796,2000
+Pirapetinga,11732,2000
+Pirapora,50694,2000
+Pirauba,11363,2000
+Pitangui,24313,2000
+Piumhi,29388,2000
+Planura,8826,2000
+Poco Fundo,14246,2000
+Pocos de Caldas,132156,2000
+Pocrane,9430,2000
+Pompeu,25502,2000
+Ponte Nova,56568,2000
+Ponto dos Volantes,9898,2000
+Ponto Chique,2977,2000
+Porteirinha,33644,2000
+Porto Firme,9586,2000
+Pote,14916,2000
+Pouso Alegre,102189,2000
+Pouso Alto,7038,2000
+Prados,7582,2000
+Prata,19728,2000
+Pratapolis,9278,2000
+Pratinha,2957,2000
+Presidente Bernardes,5065,2000
+Presidente Juscelino,4614,2000
+Presidente Kubitschek,2339,2000
+Presidente Olegario,17302,2000
+Prudente de Morais,8810,2000
+Quartel Geral,3210,2000
+Queluzita,2061,2000
+Raposos,15203,2000
+Raul Soares,24539,2000
+Recreio,10715,2000
+Reduto,4798,2000
+Resende Costa,9885,2000
+Resplendor,17257,2000
+Ressaquinha,4478,2000
+Riachinho,8658,2000
+Riacho dos Machados,10998,2000
+Ribeirao das Neves,243917,2000
+Ribeirao Vermelho,3542,2000
+Rio do Prado,5312,2000
+Rio Acima,8237,2000
+Rio Casca,14761,2000
+Rio Doce,2182,2000
+Rio Espera,6553,2000
+Rio Manso,3916,2000
+Rio Novo,8812,2000
+Rio Paranaiba,11913,2000
+Rio Pardo de Minas,26166,2000
+Rio Piracicaba,14699,2000
+Rio Pomba,16173,2000
+Rio Preto,4755,2000
+Rio Vermelho,14004,2000
+Ritapolis,5559,2000
+Rochedo de Minas,2104,2000
+Rodeiro,4693,2000
+Romaria,3476,2000
+Rosario da Limeira,3540,2000
+Rubelita,8148,2000
+Rubim,9090,2000
+Sabara,110063,2000
+Sabinopolis,16563,2000
+Sacramento,20997,2000
+Salinas,34161,2000
+Salto da Divisa,6807,2000
+Santa Barbara,24038,2000
+Santa Barbara do Leste,6782,2000
+Santa Barbara do Monte Verde,2619,2000
+Santa Barbara do Tugurio,4281,2000
+Santa Cruz de Minas,7152,2000
+Santa Cruz de Salinas,4337,2000
+Santa Cruz do Escalvado,5121,2000
+Santa Efigenia de Minas,4463,2000
+Santa Fe de Minas,3679,2000
+Santa Helena de Minas,4600,2000
+Santa Juliana,11399,2000
+Santa Luzia,168103,2000
+Santa Margarida,14000,2000
+Santa Maria de Itabira,10196,2000
+Santa Maria do Salto,4626,2000
+Santa Maria do Suacui,14816,2000
+Santa Rita de Caldas,9837,2000
+Santa Rita de Ibitipoca,3453,2000
+Santa Rita de Jacutinga,5263,2000
+Santa Rita de Minas,4131,2000
+Santa Rita do Itueto,5931,2000
+Santa Rita do Sapucai,32078,2000
+Santa Rosa da Serra,2924,2000
+Santa Vitoria,17096,2000
+Santana da Vargem,7359,2000
+Santana de Cataguases,2972,2000
+Santana de Pirapama,7853,2000
+Santana do Deserto,2952,2000
+Santana do Garambeu,1939,2000
+Santana do Jacare,4694,2000
+Santana do Manhuacu,7330,2000
+Santana do Paraiso,17319,2000
+Santana do Riacho,3679,2000
+Santana dos Montes,3998,2000
+Santo Antonio do Amparo,17146,2000
+Santo Antonio do Aventureiro,3436,2000
+Santo Antonio do Grama,4496,2000
+Santo Antonio do Itambe,4899,2000
+Santo Antonio do Jacinto,10243,2000
+Santo Antonio do Monte,22401,2000
+Santo Antonio do Retiro,6025,2000
+Santo Antonio do Rio Abaixo,1610,2000
+Santo Hipolito,3655,2000
+Santos Dumont,46366,2000
+Sao Bento Abade,3289,2000
+Sao Bras do Suacui,3262,2000
+Sao Domingos das Dores,4263,2000
+Sao Domingos do Prata,17119,2000
+Sao Felix de Minas,3110,2000
+Sao Francisco,55316,2000
+Sao Francisco de Paula,6285,2000
+Sao Francisco de Sales,5357,2000
+Sao Francisco do Gloria,5106,2000
+Sao Geraldo,6815,2000
+Sao Geraldo da Piedade,4945,2000
+Sao Geraldo do Baixio,2445,2000
+Sao Goncalo do Abaete,4771,2000
+Sao Goncalo do Para,8160,2000
+Sao Goncalo do Rio Abaixo,8858,2000
+Sao Goncalo do Rio Preto,3218,2000
+Sao Goncalo do Sapucai,21512,2000
+Sao Gotardo,24621,2000
+Sao Joao da Lagoa,4360,2000
+Sao Joao da Mata,2730,2000
+Sao Joao da Ponte,22847,2000
+Sao Joao das Missoes,7121,2000
+Sao Joao del Rei,78286,2000
+Sao Joao do Manhuacu,8422,2000
+Sao Joao do Manteninha,4466,2000
+Sao Joao do Oriente,8419,2000
+Sao Joao do Pacui,3834,2000
+Sao Joao do Paraiso,18362,2000
+Sao Joao Batista do Gloria,5274,2000
+Sao Joao Evangelista,15041,2000
+Sao Joao Nepomuceno,25643,2000
+Sao Joaquim de Bicas,14434,2000
+Sao Jose da Barra,5700,2000
+Sao Jose da Lapa,13504,2000
+Sao Jose da Safira,3640,2000
+Sao Jose da Varginha,3223,2000
+Sao Jose do Alegre,3403,2000
+Sao Jose do Divino,3647,2000
+Sao Jose do Goiabal,6008,2000
+Sao Jose do Jacuri,6079,2000
+Sao Jose do Mantimento,2273,2000
+Sao Lourenco,37003,2000
+Sao Miguel do Anta,6769,2000
+Sao Pedro da Uniao,5129,2000
+Sao Pedro do Suacui,7102,2000
+Sao Pedro dos Ferros,8734,2000
+Sao Romao,7424,2000
+Sao Roque de Minas,6114,2000
+Sao Sebastiao da Bela Vista,4591,2000
+Sao Sebastiao da Vargem Alegre,2577,2000
+Sao Sebastiao do Anta,3793,2000
+Sao Sebastiao do Maranhao,10999,2000
+Sao Sebastiao do Oeste,4359,2000
+Sao Sebastiao do Paraiso,58835,2000
+Sao Sebastiao do Rio Preto,1467,2000
+Sao Sebastiao do Rio Verde,2099,2000
+Sao Thome das Letras,5781,2000
+Sao Tiago,9879,2000
+Sao Tomas de Aquino,6053,2000
+Sao Vicente de Minas,5979,2000
+Sapucai-Mirim,5392,2000
+Sardoa,4351,2000
+Sarzedo,15551,2000
+Sem-Peixe,3200,2000
+Senador Amaral,5284,2000
+Senador Cortes,1998,2000
+Senador Firmino,6623,2000
+Senador Jose Bento,1958,2000
+Senador Modestino Goncalves,5397,2000
+Senhora de Oliveira,4900,2000
+Senhora do Porto,3812,2000
+Senhora dos Remedios,9887,2000
+Sericita,6518,2000
+Seritinga,1757,2000
+Serra da Saudade,825,2000
+Serra do Salitre,11158,2000
+Serra dos Aimores,8048,2000
+Serra Azul de Minas,4170,2000
+Serrania,7593,2000
+Serranopolis de Minas,3927,2000
+Serranos,2197,2000
+Serro,21215,2000
+Sete Lagoas,187911,2000
+Setubinha,8011,2000
+Silveirania,1993,2000
+Silvianopolis,5195,2000
+Simao Pereira,2072,2000
+Simonesia,17299,2000
+Sobralia,5919,2000
+Soledade de Minas,5379,2000
+Tabuleiro,4496,2000
+Taiobeiras,21334,2000
+Taparuba,3051,2000
+Tapira,3472,2000
+Tapirai,1771,2000
+Taquaracu de Minas,3331,2000
+Tarumirim,14917,2000
+Teixeiras,11101,2000
+Teofilo Otoni,123541,2000
+Timoteo,71845,2000
+Tiradentes,5792,2000
+Tiros,11435,2000
+Tocantins,15612,2000
+Tocos do Moji,3810,2000
+Toledo,5532,2000
+Tombos,10796,2000
+Tres Coracoes,63446,2000
+Tres Marias,26447,2000
+Tres Pontas,49236,2000
+Tumiritinga,5296,2000
+Tupaciguara,20298,2000
+Turmalina,17475,2000
+Turvolandia,3755,2000
+Uba,84632,2000
+Ubai,10488,2000
+Ubaporanga,12110,2000
+Uberaba,254520,2000
+Uberlandia,502416,2000
+Umburatiba,2990,2000
+Unai,67909,2000
+Uniao de Minas,4500,2000
+Uruana de Minas,3167,2000
+Urucania,8797,2000
+Urucuia,7297,2000
+Vargem Alegre,5603,2000
+Vargem Bonita,1985,2000
+Vargem Grande do Rio Pardo,3830,2000
+Varginha,110879,2000
+Varjao de Minas,3205,2000
+Varzea da Palma,32854,2000
+Varzelandia,17323,2000
+Vazante,19134,2000
+Verdelandia,7073,2000
+Veredinha,5746,2000
+Verissimo,3301,2000
+Vermelho Novo,4160,2000
+Vespasiano,66855,2000
+Vicosa,63014,2000
+Vieiras,4124,2000
+Virgem da Lapa,13623,2000
+Virginia,8400,2000
+Virginopolis,10398,2000
+Virgolandia,5949,2000
+Visconde do Rio Branco,33390,2000
+Volta Grande,4834,2000
+Wenceslau Braz,2162,2000
+Afonso Claudio,30973,2000
+agua Doce do Norte,13073,2000
+aguia Branca,9557,2000
+Alegre,32550,2000
+Alfredo Chaves,13422,2000
+Alto Rio Novo,6992,2000
+Anchieta,19078,2000
+Apiaca,6704,2000
+Aracruz,65832,2000
+Atilio Vivacqua,7423,2000
+Baixo Guandu,26346,2000
+Barra de Sao Francisco,37461,2000
+Boa Esperanca,14334,2000
+Bom Jesus do Norte,9086,2000
+Brejetuba,10167,2000
+Cachoeiro de Itapemirim,156495,2000
+Cariacica,324660,2000
+Castelo,29263,2000
+Colatina,108240,2000
+Conceicao da Barra,28191,2000
+Conceicao do Castelo,9901,2000
+Divino de Sao Lourenco,4629,2000
+Domingos Martins,26178,2000
+Dores do Rio Preto,5963,2000
+Ecoporanga,21160,2000
+Fundao,12642,2000
+Guacui,26227,2000
+Guarapari,81487,2000
+Ibatiba,17389,2000
+Ibiracu,9942,2000
+Ibitirama,8222,2000
+Iconha,12391,2000
+Irupi,10608,2000
+Itaguacu,14864,2000
+Itapemirim,27827,2000
+Itarana,11147,2000
+Iuna,25791,2000
+Jaguare,18145,2000
+Jeronimo Monteiro,10091,2000
+Joao Neiva,14975,2000
+Laranja da Terra,10094,2000
+Linhares,107254,2000
+Mantenopolis,11622,2000
+Marataizes,28812,2000
+Marechal Floriano,12157,2000
+Marilandia,9701,2000
+Mimoso do Sul,25605,2000
+Montanha,17399,2000
+Mucurici,6745,2000
+Muniz Freire,19032,2000
+Muqui,12586,2000
+Nova Venecia,43336,2000
+Pancas,19366,2000
+Pedro Canario,23582,2000
+Pinheiros,20406,2000
+Piuma,13632,2000
+Ponto Belo,7390,2000
+Presidente Kennedy,9827,2000
+Rio Bananal,16448,2000
+Rio Novo do Sul,11229,2000
+Santa Leopoldina,12364,2000
+Santa Maria de Jetiba,28267,2000
+Santa Teresa,19544,2000
+Sao Domingos do Norte,7574,2000
+Sao Gabriel da Palha,25281,2000
+Sao Jose do Calcado,10697,2000
+Sao Mateus,90766,2000
+Sao Roque do Canaa,9367,2000
+Serra,312846,2000
+Sooretama,15435,2000
+Vargem Alta,13992,2000
+Venda Nova do Imigrante,15556,2000
+Viana,52491,2000
+Vila Pavao,9133,2000
+Vila Valerio,14159,2000
+Vila Velha,325482,2000
+Vitoria,272126,2000
+Angra dos Reis,98229,2000
+Aperibe,8079,2000
+Araruama,75411,2000
+Areal,9596,2000
+Armacao dos Buzios,17729,2000
+Arraial do Cabo,22858,2000
+Barra do Pirai,90648,2000
+Barra Mansa,169648,2000
+Belford Roxo,433348,2000
+Bom Jardim,23131,2000
+Bom Jesus do Itabapoana,34190,2000
+Cabo Frio,125208,2000
+Cachoeiras de Macacu,46159,2000
+Cambuci,14758,2000
+Campos dos Goytacazes,401214,2000
+Cantagalo,19237,2000
+Carapebus,9318,2000
+Cardoso Moreira,11674,2000
+Carmo,15672,2000
+Casimiro de Abreu,23125,2000
+Comendador Levy Gasparian,7653,2000
+Conceicao de Macabu,19284,2000
+Cordeiro,18120,2000
+Duas Barras,10020,2000
+Duque de Caxias,756738,2000
+Engenheiro Paulo de Frontin,12948,2000
+Guapimirim,38612,2000
+Iguaba Grande,11075,2000
+Itaborai,178002,2000
+Itaguai,76058,2000
+Italva,13625,2000
+Itaocara,23644,2000
+Itaperuna,87739,2000
+Itatiaia,25118,2000
+Japeri,83371,2000
+Laje do Muriae,7646,2000
+Macae,129576,2000
+Macuco,5941,2000
+Mage,200255,2000
+Mangaratiba,22764,2000
+Marica,68728,2000
+Mendes,17747,2000
+Miguel Pereira,20751,2000
+Miracema,24144,2000
+Natividade,15620,2000
+Nilopolis,152787,2000
+Niteroi,462884,2000
+Nova Friburgo,171154,2000
+Nova Iguacu,873583,2000
+Paracambi,41869,2000
+Paraiba do Sul,33315,2000
+Parati,32116,2000
+Paty do Alferes,23245,2000
+Petropolis,282182,2000
+Pinheiral,19958,2000
+Pirai,25904,2000
+Porciuncula,16319,2000
+Porto Real,9472,2000
+Quatis,11070,2000
+Queimados,117068,2000
+Quissama,14118,2000
+Resende,102729,2000
+Rio das Flores,6223,2000
+Rio das Ostras,33275,2000
+Rio de Janeiro,5613897,2000
+Rio Bonito,47670,2000
+Rio Claro,15304,2000
+Santa Maria Madalena,10598,2000
+Santo Antonio de Padua,34667,2000
+Sao Fidelis,38105,2000
+Sao Francisco de Itabapoana,38015,2000
+Sao Goncalo,880561,2000
+Sao Joao da Barra,29861,2000
+Sao Joao de Meriti,441858,2000
+Sao Jose de Uba,5862,2000
+Sao Jose do Vale do Rio Preto,16642,2000
+Sao Pedro da Aldeia,63195,2000
+Sao Sebastiao do Alto,8372,2000
+Sapucaia,17923,2000
+Saquarema,50181,2000
+Seropedica,59584,2000
+Silva Jardim,19650,2000
+Sumidouro,13811,2000
+Tangua,25783,2000
+Teresopolis,129010,2000
+Trajano de Morais,10358,2000
+Tres Rios,66711,2000
+Valenca,62065,2000
+Varre-Sai,8046,2000
+Vassouras,29500,2000
+Volta Redonda,242845,2000
+Adamantina,33750,2000
+Adolfo,3459,2000
+Aguai,30116,2000
+aguas da Prata,7644,2000
+aguas de Lindoia,15559,2000
+aguas de Santa Barbara,4618,2000
+aguas de Sao Pedro,1766,2000
+Agudos,32252,2000
+Alambari,3537,2000
+Alfredo Marcondes,3728,2000
+Altair,3752,2000
+Altinopolis,14297,2000
+Alto Alegre,4122,2000
+Aluminio,12698,2000
+alvares Florence,4357,2000
+alvares Machado,24622,2000
+alvaro de Carvalho,2919,2000
+Alvinlandia,2733,2000
+Americana,180389,2000
+Americo de Campos,5350,2000
+Americo Brasiliense,27412,2000
+Amparo,59292,2000
+Analandia,3918,2000
+Andradina,55210,2000
+Angatuba,18442,2000
+Anhembi,4748,2000
+Anhumas,2950,2000
+Aparecida,35349,2000
+Aparecida d'Oeste,4653,2000
+Apiai,23362,2000
+Aracariguama,10936,2000
+Aracatuba,171420,2000
+Aracoiaba da Serra,19675,2000
+Aramina,4337,2000
+Arandu,5190,2000
+Arapei,2401,2000
+Araraquara,176298,2000
+Araras,102636,2000
+Arco-iris,2087,2000
+Arealva,6390,2000
+Areias,3559,2000
+Areiopolis,10450,2000
+Ariranha,7796,2000
+Artur Nogueira,29726,2000
+Aruja,57969,2000
+Aspasia,1972,2000
+Assis,88882,2000
+Atibaia,101935,2000
+Auriflama,13807,2000
+Avai,4423,2000
+Avanhandava,8631,2000
+Avare,79495,2000
+Bady Bassitt,9384,2000
+Balbinos,1578,2000
+Balsamo,7324,2000
+Bananal,8626,2000
+Barao de Antonina,2523,2000
+Barbosa,6210,2000
+Bariri,26572,2000
+Barra do Chapeu,5149,2000
+Barra do Turvo,7421,2000
+Barra Bonita,35116,2000
+Barretos,105262,2000
+Barrinha,25167,2000
+Barueri,218242,2000
+Bastos,20519,2000
+Batatais,51315,2000
+Bauru,320316,2000
+Bebedouro,77656,2000
+Bento de Abreu,2182,2000
+Bernardino de Campos,10689,2000
+Bertioga,19534,2000
+Bilac,5886,2000
+Birigui,97600,2000
+Biritiba-Mirim,23074,2000
+Boa Esperanca do Sul,12283,2000
+Bocaina,9843,2000
+Bofete,7723,2000
+Boituva,32630,2000
+Bom Jesus dos Perdoes,11643,2000
+Bom Sucesso de Itarare,3101,2000
+Bora,789,2000
+Boraceia,3644,2000
+Borborema,12836,2000
+Borebi,2010,2000
+Botucatu,109800,2000
+Braganca Paulista,119085,2000
+Brauna,4485,2000
+Brejo Alegre,2241,2000
+Brodosqui,17841,2000
+Brotas,19599,2000
+Buri,18709,2000
+Buritama,14432,2000
+Buritizal,2996,2000
+Cabralia Paulista,5175,2000
+Cabreuva,26931,2000
+Cacapava,70163,2000
+Cachoeira Paulista,27235,2000
+Caconde,18000,2000
+Cafelandia,15374,2000
+Caiabu,3489,2000
+Caieiras,65707,2000
+Caiua,3075,2000
+Cajamar,48515,2000
+Cajati,30554,2000
+Cajobi,11432,2000
+Cajuru,19614,2000
+Campina do Monte Alegre,5228,2000
+Campinas,962996,2000
+Campo Limpo Paulista,59745,2000
+Campos do Jordao,35100,2000
+Campos Novos Paulista,4289,2000
+Cananeia,9192,2000
+Canas,3140,2000
+Candido Mota,30174,2000
+Candido Rodrigues,2641,2000
+Canitar,3256,2000
+Capao Bonito,45233,2000
+Capela do Alto,14480,2000
+Capivari,40904,2000
+Caraguatatuba,77002,2000
+Carapicuiba,366895,2000
+Cardoso,10972,2000
+Casa Branca,24164,2000
+Cassia dos Coqueiros,2827,2000
+Castilho,15715,2000
+Catanduva,109908,2000
+Catigua,7172,2000
+Cedral,6140,2000
+Cerqueira Cesar,14927,2000
+Cerquilho,28536,2000
+Cesario Lange,14654,2000
+Charqueada,14444,2000
+Chavantes,13290,2000
+Clementina,5157,2000
+Colina,16873,2000
+Colombia,6942,2000
+Conchal,25972,2000
+Conchas,14040,2000
+Cordeiropolis,17629,2000
+Coroados,4566,2000
+Coronel Macedo,5421,2000
+Corumbatai,4014,2000
+Cosmopolis,42638,2000
+Cosmorama,7011,2000
+Cotia,144162,2000
+Cravinhos,25643,2000
+Cristais Paulista,6725,2000
+Cruzalia,2759,2000
+Cruzeiro,74322,2000
+Cubatao,103983,2000
+Cunha,20723,2000
+Descalvado,27832,2000
+Diadema,338845,2000
+Dirce Reis,1568,2000
+Divinolandia,11016,2000
+Dobrada,7350,2000
+Dois Corregos,24860,2000
+Dolcinopolis,2195,2000
+Dourado,8843,2000
+Dracena,41246,2000
+Duartina,11288,2000
+Dumont,5857,2000
+Echapora,6589,2000
+Eldorado,14831,2000
+Elias Fausto,13348,2000
+Elisiario,2638,2000
+Embauba,2533,2000
+Embu,230598,2000
+Embu-Guacu,48283,2000
+Emilianopolis,2612,2000
+Engenheiro Coelho,10044,2000
+Espirito Santo do Pinhal,39235,2000
+Espirito Santo do Turvo,3192,2000
+Estiva Gerbi,9283,2000
+Estrela d'Oeste,7676,2000
+Estrela do Norte,2793,2000
+Euclides da Cunha Paulista,10945,2000
+Fartura,15038,2000
+Fernando Prestes,5414,2000
+Fernandopolis,60799,2000
+Fernao,1381,2000
+Ferraz de Vasconcelos,144735,2000
+Flora Rica,2125,2000
+Floreal,3175,2000
+Florida Paulista,11146,2000
+Florinia,3431,2000
+Franca,297352,2000
+Francisco Morato,125915,2000
+Franco da Rocha,112318,2000
+Gabriel Monteiro,2271,2000
+Galia,7191,2000
+Garca,39451,2000
+Gastao Vidigal,3517,2000
+Gaviao Peixoto,4665,2000
+General Salgado,10862,2000
+Getulina,8839,2000
+Glicerio,3926,2000
+Guaicara,9688,2000
+Guaimbe,4699,2000
+Guaira,35404,2000
+Guapiacu,14437,2000
+Guapiara,19807,2000
+Guara,19474,2000
+Guaracai,9473,2000
+Guaraci,9265,2000
+Guarani d'Oeste,2155,2000
+Guaranta,5588,2000
+Guararapes,28437,2000
+Guararema,18045,2000
+Guaratingueta,105060,2000
+Guarei,9143,2000
+Guariba,31356,2000
+Guaruja,240620,2000
+Guarulhos,1134819,2000
+Guatapara,6269,2000
+Guzolandia,4396,2000
+Herculandia,7946,2000
+Holambra,7649,2000
+Hortolandia,142064,2000
+Iacanga,8645,2000
+Iacri,6409,2000
+Iaras,2975,2000
+Ibate,26846,2000
+Ibira,9927,2000
+Ibirarema,5869,2000
+Ibitinga,45288,2000
+Ibiuna,63888,2000
+Icem,7076,2000
+Iepe,6856,2000
+Igaracu do Tiete,24672,2000
+Igarapava,29433,2000
+Igarata,5814,2000
+Iguape,26834,2000
+Ilha Comprida,3905,2000
+Ilha Solteira,22797,2000
+Ilhabela,12545,2000
+Indaiatuba,140396,2000
+Indiana,4865,2000
+Indiapora,4247,2000
+Inubia Paulista,2989,2000
+Ipaucu,14702,2000
+Ipero,16410,2000
+Ipeuna,3799,2000
+Ipigua,2997,2000
+Iporanga,4868,2000
+Ipua,11754,2000
+Iracemapolis,16112,2000
+Irapua,6572,2000
+Irapuru,7607,2000
+Itabera,19207,2000
+Itai,16726,2000
+Itajobi,14177,2000
+Itaju,2133,2000
+Itanhaem,66284,2000
+Itaoca,3201,2000
+Itapecerica da Serra,131860,2000
+Itapetininga,121611,2000
+Itapeva,83145,2000
+Itapevi,156061,2000
+Itapira,64995,2000
+Itapirapua Paulista,2956,2000
+Itapolis,38760,2000
+Itaporanga,14487,2000
+Itapui,10550,2000
+Itapura,3894,2000
+Itaquaquecetuba,284266,2000
+Itarare,48148,2000
+Itariri,11711,2000
+Itatiba,81791,2000
+Itatinga,14327,2000
+Itirapina,11786,2000
+Itirapua,5732,2000
+Itobi,6822,2000
+Itu,135950,2000
+Itupeva,23673,2000
+Ituverava,35141,2000
+Jaborandi,6587,2000
+Jaboticabal,67115,2000
+Jacarei,171176,2000
+Jaci,3360,2000
+Jacupiranga,16734,2000
+Jaguariuna,29018,2000
+Jales,46812,2000
+Jambeiro,3550,2000
+Jandira,86089,2000
+Jardinopolis,25354,2000
+Jarinu,14226,2000
+Jau,111969,2000
+Jeriquara,3052,2000
+Joanopolis,10586,2000
+Joao Ramalho,4115,2000
+Jose Bonifacio,27533,2000
+Julio Mesquita,4052,2000
+Jumirim,2060,2000
+Jundiai,296994,2000
+Junqueiropolis,15285,2000
+Juquia,19977,2000
+Juquitiba,23361,2000
+Lagoinha,5437,2000
+Laranjal Paulista,22150,2000
+Lavinia,4975,2000
+Lavrinhas,6293,2000
+Leme,88914,2000
+Lencois Paulista,58113,2000
+Limeira,250267,2000
+Lindoia,5652,2000
+Lins,62614,2000
+Lorena,75497,2000
+Lourdes,2259,2000
+Louveira,19318,2000
+Lucelia,16539,2000
+Lucianopolis,2153,2000
+Luis Antonio,7916,2000
+Luiziania,3816,2000
+Lupercio,3734,2000
+Lutecia,2755,2000
+Macatuba,18410,2000
+Macaubal,6940,2000
+Macedonia,3396,2000
+Magda,3393,2000
+Mairinque,34582,2000
+Mairipora,57002,2000
+Manduri,6881,2000
+Maraba Paulista,3786,2000
+Maracai,12927,2000
+Marapoama,2088,2000
+Mariapolis,3665,2000
+Marilia,192174,2000
+Marinopolis,2366,2000
+Martinopolis,22838,2000
+Matao,73244,2000
+Maua,385178,2000
+Mendonca,3147,2000
+Meridiano,3346,2000
+Mesopolis,2017,2000
+Miguelopolis,19955,2000
+Mineiros do Tiete,12661,2000
+Mira Estrela,2479,2000
+Miracatu,22471,2000
+Mirandopolis,25774,2000
+Mirante do Paranapanema,16477,2000
+Mirassol,46884,2000
+Mirassolandia,3883,2000
+Mococa,68224,2000
+Mogi Guacu,126691,2000
+Moji das Cruzes,347542,2000
+Moji-Mirim,86072,2000
+Mombuca,3026,2000
+Moncoes,1899,2000
+Mongagua,30922,2000
+Monte Alegre do Sul,6402,2000
+Monte Alto,45674,2000
+Monte Aprazivel,18632,2000
+Monte Azul Paulista,20428,2000
+Monte Castelo,3969,2000
+Monte Mor,35245,2000
+Monteiro Lobato,3133,2000
+Morro Agudo,24885,2000
+Morungaba,11103,2000
+Motuca,3897,2000
+Murutinga do Sul,3426,2000
+Nantes,2135,2000
+Narandiba,4303,2000
+Natividade da Serra,6953,2000
+Nazare Paulista,12267,2000
+Neves Paulista,8657,2000
+Nhandeara,9543,2000
+Nipoa,3644,2000
+Nova Alianca,4349,2000
+Nova Campina,6045,2000
+Nova Canaa Paulista,2311,2000
+Nova Castilho,979,2000
+Nova Europa,7796,2000
+Nova Granada,17627,2000
+Nova Guataporanga,2140,2000
+Nova Independencia,2285,2000
+Nova Luzitania,2805,2000
+Nova Odessa,40012,2000
+Novais,3326,2000
+Novo Horizonte,32175,2000
+Nuporanga,6523,2000
+Ocaucu,4561,2000
+oleo,2900,2000
+Olimpia,46227,2000
+Onda Verde,2998,2000
+Oriente,5529,2000
+Orindiuva,4032,2000
+Orlandia,36524,2000
+Osasco,671159,2000
+Oscar Bressane,2352,2000
+Osvaldo Cruz,30673,2000
+Ourinhos,99255,2000
+Ouro Verde,6686,2000
+Ouroeste,5802,2000
+Pacaembu,10907,2000
+Palestina,8497,2000
+Palmares Paulista,10762,2000
+Palmeira d'Oeste,10019,2000
+Palmital,20318,2000
+Panorama,13090,2000
+Paraguacu Paulista,40159,2000
+Paraibuna,13578,2000
+Paraiso,6240,2000
+Paranapanema,11933,2000
+Paranapua,3899,2000
+Parapua,10267,2000
+Pardinho,4625,2000
+Pariquera-Acu,18164,2000
+Parisi,1737,2000
+Patrocinio Paulista,11211,2000
+Pauliceia,4397,2000
+Paulinia,50762,2000
+Paulistania,1628,2000
+Paulo de Faria,8749,2000
+Pederneiras,36267,2000
+Pedra Bela,5157,2000
+Pedranopolis,2699,2000
+Pedregulho,15817,2000
+Pedreira,36434,2000
+Pedrinhas Paulista,2599,2000
+Pedro de Toledo,7373,2000
+Penapolis,54984,2000
+Pereira Barreto,24714,2000
+Pereiras,6049,2000
+Peruibe,47297,2000
+Piacatu,4767,2000
+Piedade,40183,2000
+Pilar do Sul,26615,2000
+Pindamonhangaba,124413,2000
+Pindorama,14021,2000
+Pinhalzinho,11589,2000
+Piquerobi,3441,2000
+Piquete,15544,2000
+Piracaia,21646,2000
+Piracicaba,324211,2000
+Piraju,27199,2000
+Pirajui,17321,2000
+Pirangi,10321,2000
+Pirapora do Bom Jesus,12062,2000
+Pirapozinho,22610,2000
+Pirassununga,67054,2000
+Piratininga,10298,2000
+Pitangueiras,31580,2000
+Planalto,3034,2000
+Platina,3050,2000
+Poa,90640,2000
+Poloni,4870,2000
+Pompeia,16497,2000
+Pongai,3333,2000
+Pontal,30751,2000
+Pontalinda,3369,2000
+Pontes Gestal,2394,2000
+Populina,4256,2000
+Porangaba,5928,2000
+Porto Feliz,48815,2000
+Porto Ferreira,50147,2000
+Potim,14319,2000
+Potirendaba,12082,2000
+Pracinha,1359,2000
+Pradopolis,13619,2000
+Praia Grande,174116,2000
+Pratania,3831,2000
+Presidente Alves,3837,2000
+Presidente Bernardes,11692,2000
+Presidente Epitacio,37801,2000
+Presidente Prudente,187851,2000
+Presidente Venceslau,35108,2000
+Promissao,31866,2000
+Quadra,2458,2000
+Quata,13056,2000
+Queiroz,2236,2000
+Queluz,8902,2000
+Quintana,4895,2000
+Rafard,9039,2000
+Rancharia,29131,2000
+Redencao da Serra,3518,2000
+Regente Feijo,17401,2000
+Reginopolis,5061,2000
+Registro,49379,2000
+Restinga,5233,2000
+Ribeira,3650,2000
+Ribeirao do Sul,4474,2000
+Ribeirao dos indios,2232,2000
+Ribeirao Bonito,11120,2000
+Ribeirao Branco,18345,2000
+Ribeirao Corrente,3766,2000
+Ribeirao Grande,8080,2000
+Ribeirao Pires,111450,2000
+Ribeirao Preto,478637,2000
+Rifaina,3695,2000
+Rincao,10803,2000
+Rinopolis,9733,2000
+Rio das Pedras,25581,2000
+Rio Claro,166751,2000
+Rio Grande da Serra,39686,2000
+Riolandia,7326,2000
+Riversul,7987,2000
+Rosana,22441,2000
+Roseira,8487,2000
+Rubiacea,2339,2000
+Rubineia,2658,2000
+Sabino,4878,2000
+Sagres,2299,2000
+Sales,3938,2000
+Sales Oliveira,8753,2000
+Salesopolis,15253,2000
+Salmourao,4495,2000
+Saltinho,5408,2000
+Salto,99315,2000
+Salto de Pirapora,34823,2000
+Salto Grande,6889,2000
+Sandovalina,2865,2000
+Santa Adelia,12663,2000
+Santa Albertina,5340,2000
+Santa Barbara d'Oeste,174994,2000
+Santa Branca,23032,2000
+Santa Clara d'Oeste,2214,2000
+Santa Cruz da Conceicao,3379,2000
+Santa Cruz da Esperanca,1786,2000
+Santa Cruz das Palmeiras,25602,2000
+Santa Cruz do Rio Pardo,39194,2000
+Santa Ernestina,5355,2000
+Santa Fe do Sul,27393,2000
+Santa Gertrudes,15631,2000
+Santa Isabel,44228,2000
+Santa Lucia,8405,2000
+Santa Maria da Serra,4617,2000
+Santa Mercedes,2490,2000
+Santa Rita d'Oeste,2737,2000
+Santa Rita do Passa Quatro,25621,2000
+Santa Rosa de Viterbo,20802,2000
+Santa Salete,1306,2000
+Santana da Ponte Pensa,1876,2000
+Santana de Parnaiba,65464,2000
+Santo Anastacio,21520,2000
+Santo Andre,631727,2000
+Santo Antonio da Alegria,5812,2000
+Santo Antonio de Posse,15336,2000
+Santo Antonio do Aracangua,6452,2000
+Santo Antonio do Jardim,6458,2000
+Santo Antonio do Pinhal,6187,2000
+Santo Expedito,2374,2000
+Santopolis do Aguapei,3588,2000
+Santos,407647,2000
+Sao Bento do Sapucai,9800,2000
+Sao Bernardo do Campo,742887,2000
+Sao Caetano do Sul,131273,2000
+Sao Carlos,190776,2000
+Sao Francisco,2756,2000
+Sao Joao da Boa Vista,78834,2000
+Sao Joao das Duas Pontes,2493,2000
+Sao Joao de Iracema,1398,2000
+Sao Joao do Pau d'Alho,2177,2000
+Sao Joaquim da Barra,42862,2000
+Sao Jose da Bela Vista,8275,2000
+Sao Jose do Barreiro,4212,2000
+Sao Jose do Rio Pardo,50956,2000
+Sao Jose do Rio Preto,360860,2000
+Sao Jose dos Campos,524806,2000
+Sao Lourenco da Serra,11649,2000
+Sao Luis do Paraitinga,10532,2000
+Sao Manuel,37087,2000
+Sao Miguel Arcanjo,29410,2000
+Sao Paulo,10009231,2000
+Sao Pedro,26679,2000
+Sao Pedro do Turvo,6432,2000
+Sao Roque,65700,2000
+Sao Sebastiao,50093,2000
+Sao Sebastiao da Grama,10990,2000
+Sao Simao,13041,2000
+Sao Vicente,289153,2000
+Sarapui,7467,2000
+Sarutaia,3429,2000
+Sebastianopolis do Sul,2534,2000
+Serra Azul,7969,2000
+Serra Negra,22952,2000
+Serrana,30369,2000
+Sertaozinho,101162,2000
+Sete Barras,13582,2000
+Severinia,14670,2000
+Silveiras,5586,2000
+Socorro,30960,2000
+Sorocaba,477927,2000
+Sud Mennucci,8333,2000
+Sumare,191920,2000
+Suzanapolis,2860,2000
+Suzano,200062,2000
+Tabapua,10453,2000
+Tabatinga,14093,2000
+Taboao da Serra,202287,2000
+Taciba,5384,2000
+Taguai,7545,2000
+Taiacu,5739,2000
+Taiuva,5505,2000
+Tambau,22682,2000
+Tanabi,25063,2000
+Tapirai,8278,2000
+Tapiratiba,13583,2000
+Taquaral,2847,2000
+Taquaritinga,53811,2000
+Taquarituba,21379,2000
+Taquarivai,3992,2000
+Tarabai,6479,2000
+Taruma,11039,2000
+Tatui,96787,2000
+Taubate,231933,2000
+Tejupa,5430,2000
+Teodoro Sampaio,20077,2000
+Terra Roxa,8984,2000
+Tiete,31843,2000
+Timburi,2553,2000
+Torre de Pedra,1793,2000
+Torrinha,8723,2000
+Trabiju,1450,2000
+Tremembe,36668,2000
+Tres Fronteiras,4708,2000
+Tuiuti,5308,2000
+Tupa,62708,2000
+Tupi Paulista,12873,2000
+Turiuba,1829,2000
+Turmalina,2378,2000
+Ubarana,4406,2000
+Ubatuba,62875,2000
+Ubirajara,3495,2000
+Uchoa,9539,2000
+Uniao Paulista,1407,2000
+Urania,8256,2000
+Uru,1612,2000
+Urupes,11541,2000
+Valentim Gentil,7836,2000
+Valinhos,79767,2000
+Valparaiso,18957,2000
+Vargem,7026,2000
+Vargem Grande do Sul,36483,2000
+Vargem Grande Paulista,30492,2000
+Varzea Paulista,89293,2000
+Vera Cruz,11613,2000
+Vinhedo,44129,2000
+Viradouro,15416,2000
+Vista Alegre do Alto,4760,2000
+Vitoria Brasil,1635,2000
+Votorantim,93221,2000
+Votuporanga,74694,2000
+Zacarias,1675,2000
+Abatia,10552,2000
+Adrianopolis,5987,2000
+Agudos do Sul,6975,2000
+Almirante Tamandare,82545,2000
+Altamira do Parana,6702,2000
+Alto Parana,12586,2000
+Alto Piquiri,11033,2000
+Altonia,17854,2000
+Alvorada do Sul,8686,2000
+Amapora,4757,2000
+Ampere,16149,2000
+Anahy,2547,2000
+Andira,23500,2000
+angulo,2834,2000
+Antonina,20803,2000
+Antonio Olinto,7228,2000
+Apucarana,106385,2000
+Arapongas,84829,2000
+Arapoti,25276,2000
+Arapua,3999,2000
+Araruna,13115,2000
+Araucaria,86690,2000
+Ariranha do Ivai,2658,2000
+Assai,18849,2000
+Assis Chateaubriand,31541,2000
+Astorga,23751,2000
+Atalaia,3696,2000
+Balsa Nova,9467,2000
+Bandeirantes,31026,2000
+Barbosa Ferraz,12289,2000
+Barra do Jacare,2819,2000
+Barracao,8440,2000
+Bela Vista da Caroba,4460,2000
+Bela Vista do Paraiso,13967,2000
+Bituruna,15585,2000
+Boa Esperanca,7151,2000
+Boa Esperanca do Iguacu,2815,2000
+Boa Ventura de Sao Roque,6330,2000
+Boa Vista da Aparecida,10104,2000
+Bocaiuva do Sul,9292,2000
+Bom Jesus do Sul,4021,2000
+Bom Sucesso,5075,2000
+Bom Sucesso do Sul,3361,2000
+Borrazopolis,8751,2000
+Braganey,5410,2000
+Brasilandia do Sul,3276,2000
+Cafeara,2358,2000
+Cafelandia,11577,2000
+Cafezal do Sul,4029,2000
+California,7748,2000
+Cambara,25311,2000
+Cambe,91418,2000
+Cambira,6218,2000
+Campina da Lagoa,16174,2000
+Campina do Simao,5405,2000
+Campina Grande do Sul,35547,2000
+Campo do Tenente,6194,2000
+Campo Bonito,4696,2000
+Campo Largo,93798,2000
+Campo Magro,18531,2000
+Campo Mourao,81239,2000
+Candido de Abreu,18953,2000
+Candoi,13056,2000
+Cantagalo,12761,2000
+Capanema,17683,2000
+Capitao Leonidas Marques,17648,2000
+Carambei,13364,2000
+Carlopolis,13040,2000
+Cascavel,243139,2000
+Castro,66297,2000
+Catanduvas,10393,2000
+Centenario do Sul,12637,2000
+Cerro Azul,19165,2000
+Ceu Azul,10329,2000
+Chopinzinho,20760,2000
+Cianorte,59279,2000
+Cidade Gaucha,9928,2000
+Clevelandia,17837,2000
+Colombo,185350,2000
+Colorado,22761,2000
+Congonhinhas,7561,2000
+Conselheiro Mairinck,3937,2000
+Contenda,13816,2000
+Corbelia,15195,2000
+Cornelio Procopio,46173,2000
+Coronel Domingos Soares,6227,2000
+Coronel Vivida,23029,2000
+Corumbatai do Sul,4162,2000
+Cruz Machado,17258,2000
+Cruzeiro do Iguacu,4567,2000
+Cruzeiro do Oeste,18728,2000
+Cruzeiro do Sul,4471,2000
+Cruzmaltina,3289,2000
+Curitiba,1618279,2000
+Curiuva,13005,2000
+Diamante do Norte,5287,2000
+Diamante do Sul,2909,2000
+Diamante D'Oeste,3946,2000
+Dois Vizinhos,32782,2000
+Douradina,4630,2000
+Doutor Camargo,5844,2000
+Doutor Ulysses,6129,2000
+Eneas Marques,5409,2000
+Engenheiro Beltrao,14394,2000
+Entre Rios do Oeste,3299,2000
+Esperanca Nova,1925,2000
+Espigao Alto do Iguacu,5587,2000
+Farol,3877,2000
+Faxinal,17128,2000
+Fazenda Rio Grande,51210,2000
+Fenix,4257,2000
+Fernandes Pinheiro,5594,2000
+Figueira,8902,2000
+Flor da Serra do Sul,5169,2000
+Florai,5657,2000
+Floresta,5215,2000
+Florestopolis,12453,2000
+Florida,2452,2000
+Formosa do Oeste,7947,2000
+Foz do Iguacu,268188,2000
+Foz do Jordao,6233,2000
+Francisco Alves,6221,2000
+Francisco Beltrao,74306,2000
+General Carneiro,14370,2000
+Godoy Moreira,3328,2000
+Goioere,27981,2000
+Goioxim,7629,2000
+Grandes Rios,6415,2000
+Guaira,28053,2000
+Guairaca,5748,2000
+Guamiranga,7670,2000
+Guapirama,4280,2000
+Guaporema,2055,2000
+Guaraci,4078,2000
+Guaraniacu,17345,2000
+Guarapuava,163555,2000
+Guaraquecaba,8196,2000
+Guaratuba,35763,2000
+Honorio Serpa,6930,2000
+Ibaiti,23886,2000
+Ibema,7314,2000
+Ibipora,43860,2000
+Icaraima,8769,2000
+Iguaracu,3456,2000
+Iguatu,1970,2000
+Imbau,8617,2000
+Imbituva,23055,2000
+Inacio Martins,8742,2000
+Inaja,2766,2000
+Indianopolis,4312,2000
+Ipiranga,13128,2000
+Ipora,15334,2000
+Iracema do Oeste,2421,2000
+Irati,52113,2000
+Iretama,9656,2000
+Itaguaje,3680,2000
+Itaipulandia,5025,2000
+Itambaraca,5738,2000
+Itambe,5788,2000
+Itapejara d'Oeste,8824,2000
+Itaperucu,19900,2000
+Itauna do Sul,4064,2000
+Ivai,11815,2000
+Ivaipora,29388,2000
+Ivate,6528,2000
+Ivatuba,2826,2000
+Jaboti,4461,2000
+Jacarezinho,36899,2000
+Jaguapita,11116,2000
+Jaguariaiva,29846,2000
+Jandaia do Sul,19596,2000
+Janiopolis,7428,2000
+Japira,3569,2000
+Japura,7379,2000
+Jardim Alegre,9657,2000
+Jardim Olinda,1278,2000
+Jataizinho,13551,2000
+Jesuitas,8712,2000
+Joaquim Tavora,9647,2000
+Jundiai do Sul,3013,2000
+Juranda,8096,2000
+Jussara,5927,2000
+Kalore,4433,2000
+Lapa,45182,2000
+Laranjal,8069,2000
+Laranjeiras do Sul,44447,2000
+Leopolis,4327,2000
+Lidianopolis,4004,2000
+Lindoeste,7136,2000
+Loanda,18628,2000
+Lobato,3881,2000
+Londrina,438704,2000
+Luiziana,6459,2000
+Lunardelli,4767,2000
+Lupionopolis,4399,2000
+Mallet,13837,2000
+Mambore,14547,2000
+Mandaguacu,18170,2000
+Mandaguari,29158,2000
+Mandirituba,17049,2000
+Manfrinopolis,3487,2000
+Mangueirinha,16256,2000
+Manoel Ribas,14548,2000
+Marechal Candido Rondon,42515,2000
+Maria Helena,5780,2000
+Marialva,28549,2000
+Marilandia do Sul,8514,2000
+Marilena,6008,2000
+Mariluz,9706,2000
+Maringa,292299,2000
+Mariopolis,6151,2000
+Maripa,5931,2000
+Marmeleiro,13421,2000
+Marquinho,5891,2000
+Marumbi,4363,2000
+Matelandia,14088,2000
+Matinhos,21164,2000
+Mato Rico,4140,2000
+Maua da Serra,5537,2000
+Medianeira,36385,2000
+Mercedes,4816,2000
+Mirador,2167,2000
+Miraselva,1512,2000
+Missal,9584,2000
+Moreira Sales,12295,2000
+Morretes,16827,2000
+Munhoz de Melo,3275,2000
+Nossa Senhora das Gracas,3545,2000
+Nova Alianca do Ivai,1274,2000
+Nova America da Colina,2975,2000
+Nova Aurora,13722,2000
+Nova Cantu,7854,2000
+Nova Esperanca,29253,2000
+Nova Esperanca do Sudoeste,4955,2000
+Nova Fatima,7891,2000
+Nova Laranjeiras,19420,2000
+Nova Londrina,13513,2000
+Nova Olimpia,5050,2000
+Nova Prata do Iguacu,10106,2000
+Nova Santa Barbara,3803,2000
+Nova Santa Rosa,7211,2000
+Nova Tebas,11950,2000
+Novo Itacolomi,2446,2000
+Ortigueira,32480,2000
+Ourizona,3469,2000
+Ouro Verde do Oeste,5703,2000
+Paicandu,30657,2000
+Palmas,26722,2000
+Palmeira,30673,2000
+Palmital,17204,2000
+Palotina,25322,2000
+Paraiso do Norte,10054,2000
+Paranacity,10187,2000
+Paranagua,129440,2000
+Paranapoema,2516,2000
+Paranavai,74560,2000
+Pato Bragado,3666,2000
+Pato Branco,65285,2000
+Paula Freitas,4794,2000
+Paulo Frontin,6964,2000
+Peabiru,12856,2000
+Perobal,5699,2000
+Perola,8666,2000
+Perola d'Oeste,7590,2000
+Pien,9495,2000
+Pinhais,100991,2000
+Pinhal de Sao Bento,2519,2000
+Pinhalao,6044,2000
+Pinhao,25741,2000
+Pirai do Sul,20500,2000
+Piraquara,59334,2000
+Pitanga,35251,2000
+Pitangueiras,2138,2000
+Planaltina do Parana,3493,2000
+Planalto,13744,2000
+Ponta Grossa,272668,2000
+Pontal do Parana,10671,2000
+Porecatu,17657,2000
+Porto Amazonas,3735,2000
+Porto Barreiro,4173,2000
+Porto Rico,2212,2000
+Porto Vitoria,3745,2000
+Prado Ferreira,2297,2000
+Pranchita,6341,2000
+Presidente Castelo Branco,4422,2000
+Primeiro de Maio,10391,2000
+Prudentopolis,46068,2000
+Quarto Centenario,5113,2000
+Quatigua,6628,2000
+Quatro Barras,15573,2000
+Quatro Pontes,3575,2000
+Quedas do Iguacu,23794,2000
+Querencia do Norte,10645,2000
+Quinta do Sol,5070,2000
+Quitandinha,13377,2000
+Ramilandia,2472,2000
+Rancho Alegre,4039,2000
+Rancho Alegre D'Oeste,2815,2000
+Realeza,15321,2000
+Reboucas,15235,2000
+Renascenca,6886,2000
+Reserva,21550,2000
+Reserva do Iguacu,5298,2000
+Ribeirao do Pinhal,14369,2000
+Ribeirao Claro,10085,2000
+Rio Azul,12825,2000
+Rio Bom,3119,2000
+Rio Bonito do Iguacu,12120,2000
+Rio Branco do Ivai,3089,2000
+Rio Branco do Sul,20532,2000
+Rio Negro,31454,2000
+Rolandia,50170,2000
+Roncador,11084,2000
+Rondon,7863,2000
+Rosario do Ivai,5833,2000
+Sabaudia,5233,2000
+Salgado Filho,4486,2000
+Salto do Itarare,4367,2000
+Salto do Lontra,12423,2000
+Santa Amelia,4323,2000
+Santa Cecilia do Pavao,3372,2000
+Santa Cruz de Monte Castelo,6835,2000
+Santa Fe,8176,2000
+Santa Helena,19910,2000
+Santa Ines,1894,2000
+Santa Isabel do Ivai,9043,2000
+Santa Izabel do Oeste,11388,2000
+Santa Lucia,3614,2000
+Santa Maria do Oeste,14365,2000
+Santa Mariana,10963,2000
+Santa Monica,2331,2000
+Santa Tereza do Oeste,11658,2000
+Santa Terezinha de Itaipu,18698,2000
+Santana do Itarare,5342,2000
+Santo Antonio da Platina,40047,2000
+Santo Antonio do Caiua,2733,2000
+Santo Antonio do Paraiso,2605,2000
+Santo Antonio do Sudoeste,18197,2000
+Santo Inacio,4822,2000
+Sao Carlos do Ivai,5766,2000
+Sao Jeronimo da Serra,9233,2000
+Sao Joao,10216,2000
+Sao Joao do Caiua,6235,2000
+Sao Joao do Ivai,11544,2000
+Sao Joao do Triunfo,11488,2000
+Sao Jorge d'Oeste,9268,2000
+Sao Jorge do Ivai,5701,2000
+Sao Jorge do Patrocinio,5526,2000
+Sao Jose da Boa Vista,5800,2000
+Sao Jose das Palmeiras,3629,2000
+Sao Jose dos Pinhais,205663,2000
+Sao Manoel do Parana,1745,2000
+Sao Mateus do Sul,39571,2000
+Sao Miguel do Iguacu,26192,2000
+Sao Pedro do Iguacu,5973,2000
+Sao Pedro do Ivai,11299,2000
+Sao Pedro do Parana,2290,2000
+Sao Sebastiao da Amoreira,8338,2000
+Sao Tome,4775,2000
+Sapopema,7444,2000
+Sarandi,68068,2000
+Saudade do Iguacu,3196,2000
+Senges,18756,2000
+Serranopolis do Iguacu,4636,2000
+Sertaneja,6520,2000
+Sertanopolis,14576,2000
+Siqueira Campos,14649,2000
+Sulina,3588,2000
+Tamarana,10161,2000
+Tamboara,4176,2000
+Tapejara,14631,2000
+Tapira,5383,2000
+Teixeira Soares,7489,2000
+Telemaco Borba,56538,2000
+Terra Boa,14789,2000
+Terra Rica,12404,2000
+Terra Roxa,14109,2000
+Tibagi,19572,2000
+Tijucas do Sul,12950,2000
+Toledo,102215,2000
+Tomazina,8668,2000
+Tres Barras do Parana,10911,2000
+Tunas do Parana,3684,2000
+Tuneiras do Oeste,7488,2000
+Tupassi,8016,2000
+Turvo,13163,2000
+Ubirata,21027,2000
+Umuarama,87157,2000
+Uniao da Vitoria,46945,2000
+Uniflor,2453,2000
+Urai,10139,2000
+Ventania,8119,2000
+Vera Cruz do Oeste,8618,2000
+Vere,7327,2000
+Vila Alta,2995,2000
+Virmond,4180,2000
+Vitorino,6341,2000
+Wenceslau Braz,18468,2000
+Xambre,5737,2000
+Abdon Batista,2846,2000
+Abelardo Luz,14112,2000
+Agrolandia,7987,2000
+Agronomica,4068,2000
+agua Doce,6015,2000
+aguas de Chapeco,6271,2000
+aguas Frias,2692,2000
+aguas Mornas,5081,2000
+Alfredo Wagner,8405,2000
+Alto Bela Vista,2335,2000
+Anchieta,7102,2000
+Angelina,5920,2000
+Anita Garibaldi,9143,2000
+Anitapolis,3065,2000
+Antonio Carlos,6306,2000
+Apiuna,9523,2000
+Arabuta,4287,2000
+Araquari,19933,2000
+Ararangua,57472,2000
+Armazem,6783,2000
+Arroio Trinta,3658,2000
+Arvoredo,2246,2000
+Ascurra,7857,2000
+Atalanta,3584,2000
+Aurora,5827,2000
+Balneario Arroio do Silva,5423,2000
+Balneario Barra do Sul,4455,2000
+Balneario Camboriu,66002,2000
+Balneario Gaivota,4943,2000
+Bandeirante,3716,2000
+Barra Bonita,2183,2000
+Barra Velha,14925,2000
+Bela Vista do Toldo,5587,2000
+Belmonte,2611,2000
+Benedito Novo,9009,2000
+Biguacu,45425,2000
+Blumenau,248470,2000
+Bocaina do Sul,2879,2000
+Bom Jardim da Serra,4254,2000
+Bom Jesus,2336,2000
+Bom Jesus do Oeste,2128,2000
+Bom Retiro,8809,2000
+Bombinhas,6754,2000
+Botuvera,3493,2000
+Braco do Norte,22983,2000
+Braco do Trombudo,3436,2000
+Brunopolis,3506,2000
+Brusque,75697,2000
+Cacador,66492,2000
+Caibi,6539,2000
+Calmon,2127,2000
+Camboriu,38627,2000
+Campo Alegre,10952,2000
+Campo Belo do Sul,8507,2000
+Campo Ere,9870,2000
+Campos Novos,28591,2000
+Canelinha,8291,2000
+Canoinhas,48454,2000
+Capao Alto,2767,2000
+Capinzal,17660,2000
+Capivari de Baixo,19581,2000
+Catanduvas,7205,2000
+Caxambu do Sul,5646,2000
+Celso Ramos,2759,2000
+Cerro Negro,4057,2000
+Chapadao do Lageado,2554,2000
+Chapeco,148301,2000
+Cocal do Sul,12963,2000
+Concordia,54896,2000
+Cordilheira Alta,2814,2000
+Coronel Freitas,10169,2000
+Coronel Martins,2554,2000
+Correia Pinto,12388,2000
+Corupa,11496,2000
+Criciuma,170360,2000
+Cunha Pora,10424,2000
+Cunhatai,1908,2000
+Curitibanos,35824,2000
+Descanso,9255,2000
+Dionisio Cerqueira,13953,2000
+Dona Emma,3165,2000
+Doutor Pedrinho,2920,2000
+Entre Rios,2550,2000
+Ermo,2185,2000
+Erval Velho,3976,2000
+Faxinal dos Guedes,11525,2000
+Flor do Sertao,1735,2000
+Florianopolis,285281,2000
+Formosa do Sul,2521,2000
+Forquilhinha,18269,2000
+Fraiburgo,34329,2000
+Frei Rogerio,2769,2000
+Galvao,4016,2000
+Garopaba,13245,2000
+Garuva,11625,2000
+Gaspar,46034,2000
+Governador Celso Ramos,12280,2000
+Grao Para,6120,2000
+Gravatal,9189,2000
+Guabiruba,13043,2000
+Guaraciaba,10522,2000
+Guaramirim,23627,2000
+Guaruja do Sul,5197,2000
+Guatambu,4117,2000
+Herval d'Oeste,19818,2000
+Ibiam,1752,2000
+Ibicare,3705,2000
+Ibirama,13181,2000
+Icara,47749,2000
+Ilhota,10406,2000
+Imarui,12262,2000
+Imbituba,34215,2000
+Imbuia,5446,2000
+Indaial,40086,2000
+Iomere,2912,2000
+Ipira,4237,2000
+Ipora do Oeste,8762,2000
+Ipuacu,5564,2000
+Ipumirim,6376,2000
+Iraceminha,4797,2000
+Irani,8246,2000
+Irati,2525,2000
+Irineopolis,9540,2000
+Ita,6801,2000
+Itaiopolis,19324,2000
+Itajai,148430,2000
+Itapema,20669,2000
+Itapiranga,14744,2000
+Itapoa,6700,2000
+Ituporanga,18197,2000
+Jabora,4147,2000
+Jacinto Machado,10099,2000
+Jaguaruna,13929,2000
+Jaragua do Sul,105575,2000
+Jardinopolis,1894,2000
+Joacaba,23149,2000
+Joinville,437487,2000
+Jose Boiteux,4280,2000
+Jupia,2044,2000
+Lacerdopolis,2220,2000
+Lages,139137,2000
+Laguna,43133,2000
+Lajeado Grande,1604,2000
+Laurentino,4758,2000
+Lauro Muller,12218,2000
+Lebon Regis,11802,2000
+Leoberto Leal,4036,2000
+Lindoia do Sul,4576,2000
+Lontras,8239,2000
+Luiz Alves,8278,2000
+Luzerna,5403,2000
+Macieira,1955,2000
+Mafra,51494,2000
+Major Gercino,3238,2000
+Major Vieira,6518,2000
+Maracaja,6151,2000
+Maravilha,19383,2000
+Marema,2619,2000
+Massaranduba,12238,2000
+Matos Costa,3429,2000
+Meleiro,6506,2000
+Mirim Doce,2819,2000
+Modelo,4014,2000
+Mondai,9886,2000
+Monte Carlo,8620,2000
+Monte Castelo,7442,2000
+Morro da Fumaca,13901,2000
+Morro Grande,2502,2000
+Navegantes,36709,2000
+Nova Erechim,3904,2000
+Nova Itaberaba,5240,2000
+Nova Trento,9727,2000
+Nova Veneza,10068,2000
+Novo Horizonte,3148,2000
+Orleans,22163,2000
+Otacilio Costa,13737,2000
+Ouro,6042,2000
+Ouro Verde,2648,2000
+Paial,2232,2000
+Painel,2167,2000
+Palhoca,92077,2000
+Palma Sola,8399,2000
+Palmeira,2038,2000
+Palmitos,16984,2000
+Papanduva,15912,2000
+Paraiso,4793,2000
+Passo de Torres,4197,2000
+Passos Maia,4811,2000
+Paulo Lopes,5639,2000
+Pedras Grandes,4949,2000
+Penha,17551,2000
+Peritiba,3113,2000
+Petrolandia,6144,2000
+Picarras,10720,2000
+Pinhalzinho,11599,2000
+Pinheiro Preto,3068,2000
+Piratuba,3978,2000
+Planalto Alegre,2596,2000
+Pomerode,24035,2000
+Ponte Alta,5221,2000
+Ponte Alta do Norte,2851,2000
+Ponte Serrada,11764,2000
+Porto Belo,8741,2000
+Porto Uniao,31925,2000
+Pouso Redondo,12175,2000
+Praia Grande,7330,2000
+Presidente Castelo Branco,1929,2000
+Presidente Getulio,11638,2000
+Presidente Nereu,2249,2000
+Princesa,2382,2000
+Quilombo,9802,2000
+Rancho Queimado,2539,2000
+Rio das Antas,5866,2000
+Rio do Campo,6106,2000
+Rio do Oeste,6588,2000
+Rio do Sul,49770,2000
+Rio dos Cedros,9149,2000
+Rio Fortuna,4259,2000
+Rio Negrinho,35856,2000
+Rio Rufino,2657,2000
+Riqueza,5218,2000
+Rodeio,9991,2000
+Romelandia,6837,2000
+Salete,6817,2000
+Saltinho,4271,2000
+Salto Veloso,3939,2000
+Sangao,7803,2000
+Santa Cecilia,13308,2000
+Santa Helena,2540,2000
+Santa Rosa de Lima,1835,2000
+Santa Rosa do Sul,8038,2000
+Santa Terezinha,8305,2000
+Santa Terezinha do Progresso,3082,2000
+Santiago do Sul,1607,2000
+Santo Amaro da Imperatriz,16525,2000
+Sao Bento do Sul,64766,2000
+Sao Bernardino,3258,2000
+Sao Bonifacio,2848,2000
+Sao Carlos,9924,2000
+Sao Cristovao do Sul,3969,2000
+Sao Domingos,8944,2000
+Sao Francisco do Sul,31519,2000
+Sao Joao do Itaperiu,3539,2000
+Sao Joao do Oeste,6419,2000
+Sao Joao do Sul,7128,2000
+Sao Joao Batista,14158,2000
+Sao Joaquim,21640,2000
+Sao Jose,157484,2000
+Sao Jose do Cedro,12180,2000
+Sao Jose do Cerrito,9401,2000
+Sao Lourenco do Oeste,19885,2000
+Sao Ludgero,8621,2000
+Sao Martinho,3263,2000
+Sao Miguel da Boa Vista,1993,2000
+Sao Miguel do Oeste,31453,2000
+Sao Pedro de Alcantara,3698,2000
+Saudades,7726,2000
+Schroeder,10505,2000
+Seara,16534,2000
+Serra Alta,3149,2000
+Sideropolis,11001,2000
+Sombrio,24018,2000
+Sul Brasil,3254,2000
+Taio,15728,2000
+Tangara,8283,2000
+Tigrinhos,1957,2000
+Tijucas,20981,2000
+Timbe do Sul,5336,2000
+Timbo,30055,2000
+Timbo Grande,8211,2000
+Tres Barras,17457,2000
+Treviso,2725,2000
+Treze de Maio,6337,2000
+Treze Tilias,5206,2000
+Trombudo Central,5947,2000
+Tubarao,87138,2000
+Tunapolis,4859,2000
+Turvo,11081,2000
+Uniao do Oeste,3856,2000
+Urubici,10651,2000
+Urupema,2348,2000
+Urussanga,18235,2000
+Vargeao,3224,2000
+Vargem,3619,2000
+Vargem Bonita,5140,2000
+Vidal Ramos,5955,2000
+Videira,41710,2000
+Vitor Meireles,5556,2000
+Witmarsum,3373,2000
+Xanxere,40588,2000
+Xavantina,4667,2000
+Xaxim,25722,2000
+Zortea,2352,2000
+agua Santa,4569,2000
+Agudo,16013,2000
+Ajuricaba,7762,2000
+Alecrim,8701,2000
+Alegrete,85137,2000
+Alegria,5323,2000
+Alpestre,10323,2000
+Alto Alegre,2039,2000
+Alto Feliz,2363,2000
+Alvorada,179814,2000
+Amaral Ferrador,4831,2000
+Ametista do Sul,7687,2000
+Andre da Rocha,1139,2000
+Anta Gorda,6315,2000
+Antonio Prado,13150,2000
+Arambare,3674,2000
+Ararica,3691,2000
+Aratiba,6979,2000
+Arroio do Meio,17194,2000
+Arroio do Sal,4569,2000
+Arroio do Tigre,11933,2000
+Arroio dos Ratos,14051,2000
+Arroio Grande,19123,2000
+Arvorezinha,10465,2000
+Augusto Pestana,8574,2000
+aurea,4004,2000
+Bage,122397,2000
+Balneario Pinhal,5553,2000
+Barao,5423,2000
+Barao de Cotegipe,6823,2000
+Barao do Triunfo,6369,2000
+Barra do Guarita,3131,2000
+Barra do Quarai,3668,2000
+Barra do Ribeiro,11178,2000
+Barra do Rio Azul,2338,2000
+Barra Funda,2291,2000
+Barracao,5140,2000
+Barros Cassal,10732,2000
+Benjamin Constant do Sul,2750,2000
+Bento Goncalves,91146,2000
+Boa Vista das Missoes,2055,2000
+Boa Vista do Burica,6479,2000
+Boa Vista do Sul,3152,2000
+Bom Jesus,11453,2000
+Bom Principio,9704,2000
+Bom Progresso,2487,2000
+Bom Retiro do Sul,11259,2000
+Boqueirao do Leao,7869,2000
+Bossoroca,7774,2000
+Braga,4119,2000
+Brochier,4370,2000
+Butia,20171,2000
+Cacapava do Sul,33448,2000
+Cacequi,15368,2000
+Cachoeira do Sul,88994,2000
+Cachoeirinha,105428,2000
+Cacique Doble,5228,2000
+Caibate,6862,2000
+Caicara,5211,2000
+Camaqua,59330,2000
+Camargo,2263,2000
+Cambara do Sul,6832,2000
+Campestre da Serra,3004,2000
+Campina das Missoes,6854,2000
+Campinas do Sul,8351,2000
+Campo Bom,52451,2000
+Campo Novo,6470,2000
+Campos Borges,3887,2000
+Candelaria,29351,2000
+Candido Godoi,7481,2000
+Candiota,7998,2000
+Canela,33717,2000
+Cangucu,49305,2000
+Canoas,297270,2000
+Capao da Canoa,28076,2000
+Capao do Leao,22981,2000
+Capela de Santana,9583,2000
+Capitao,2553,2000
+Capivari do Sul,3155,2000
+Caraa,5886,2000
+Carazinho,58760,2000
+Carlos Barbosa,20765,2000
+Carlos Gomes,1996,2000
+Casca,8589,2000
+Caseiros,3064,2000
+Catuipe,10476,2000
+Caxias do Sul,357044,2000
+Centenario,3432,2000
+Cerrito,6723,2000
+Cerro Branco,4301,2000
+Cerro Grande,2847,2000
+Cerro Grande do Sul,7862,2000
+Cerro Largo,12763,2000
+Chapada,9915,2000
+Charqueadas,29831,2000
+Charrua,3814,2000
+Chiapeta,4194,2000
+Chui,3137,2000
+Chuvisca,4704,2000
+Cidreira,7104,2000
+Ciriaco,4881,2000
+Colinas,2294,2000
+Colorado,3860,2000
+Condor,6329,2000
+Constantina,10976,2000
+Coqueiros do Sul,3015,2000
+Coronel Barros,2381,2000
+Coronel Bicaco,8152,2000
+Cotipora,4089,2000
+Coxilha,2984,2000
+Crissiumal,15150,2000
+Cristal,7118,2000
+Cristal do Sul,2609,2000
+Cruz Alta,73385,2000
+Cruzeiro do Sul,12816,2000
+David Canabarro,4594,2000
+Derrubadas,3694,2000
+Dezesseis de Novembro,3261,2000
+Dilermando de Aguiar,3487,2000
+Dois Irmaos,19715,2000
+Dois Irmaos das Missoes,2765,2000
+Dois Lajeados,3429,2000
+Dom Feliciano,14744,2000
+Dom Pedrito,40212,2000
+Dom Pedro de Alcantara,2359,2000
+Dona Francisca,3879,2000
+Doutor Mauricio Cardoso,6188,2000
+Doutor Ricardo,2312,2000
+Eldorado do Sul,25034,2000
+Encantado,19225,2000
+Encruzilhada do Sul,23539,2000
+Engenho Velho,2111,2000
+Entre Rios do Sul,3476,2000
+Entre-Ijuis,10664,2000
+Erebango,3080,2000
+Erechim,89755,2000
+Ernestina,3765,2000
+Erval Grande,5429,2000
+Erval Seco,9056,2000
+Esmeralda,5052,2000
+Esperanca do Sul,4240,2000
+Espumoso,15628,2000
+Estacao,6476,2000
+Estancia Velha,34370,2000
+Esteio,82417,2000
+Estrela,28948,2000
+Estrela Velha,3751,2000
+Eugenio de Castro,3441,2000
+Fagundes Varela,2427,2000
+Farroupilha,57865,2000
+Faxinal do Soturno,6969,2000
+Faxinalzinho,3096,2000
+Fazenda Vilanova,2851,2000
+Feliz,11373,2000
+Flores da Cunha,22522,2000
+Floriano Peixoto,2473,2000
+Fontoura Xavier,11764,2000
+Formigueiro,7539,2000
+Fortaleza dos Valos,4956,2000
+Frederico Westphalen,29907,2000
+Garibaldi,28600,2000
+Garruchos,3686,2000
+Gaurama,6285,2000
+General Camara,8468,2000
+Gentil,1705,2000
+Getulio Vargas,16274,2000
+Girua,18296,2000
+Glorinha,4868,2000
+Gramado,27516,2000
+Gramado dos Loureiros,2376,2000
+Gramado Xavier,3861,2000
+Gravatai,228319,2000
+Guabiju,2083,2000
+Guaiba,94178,2000
+Guapore,20521,2000
+Guarani das Missoes,8616,2000
+Harmonia,3626,2000
+Herval,7749,2000
+Herveiras,2494,2000
+Horizontina,16742,2000
+Hulha Negra,4592,2000
+Humaita,5134,2000
+Ibarama,4462,2000
+Ibiaca,5019,2000
+Ibiraiaras,7173,2000
+Ibirapuita,4870,2000
+Ibiruba,19062,2000
+Igrejinha,26843,2000
+Ijui,77965,2000
+Ilopolis,4222,2000
+Imbe,10628,2000
+Imigrante,3868,2000
+Independencia,7797,2000
+Inhacora,2309,2000
+Ipe,5476,2000
+Ipiranga do Sul,2264,2000
+Irai,8713,2000
+Itaara,4326,2000
+Itacurubi,3689,2000
+Itapuca,2463,2000
+Itaqui,41902,2000
+Itatiba do Sul,5507,2000
+Ivora,2673,2000
+Ivoti,14751,2000
+Jaboticaba,4343,2000
+Jacutinga,4506,2000
+Jaguarao,32666,2000
+Jaguari,12544,2000
+Jaquirana,4704,2000
+Jari,3794,2000
+Joia,8079,2000
+Julio de Castilhos,24070,2000
+Lagoa dos Tres Cantos,1475,2000
+Lagoa Vermelha,29958,2000
+Lagoao,5238,2000
+Lajeado,64099,2000
+Lajeado do Bugre,2190,2000
+Lavras do Sul,7123,2000
+Liberato Salzano,6845,2000
+Lindolfo Collor,4152,2000
+Linha Nova,1552,2000
+Macambara,5228,2000
+Machadinho,5802,2000
+Mampituba,3152,2000
+Manoel Viana,6251,2000
+Maquine,7313,2000
+Marata,2422,2000
+Marau,27768,2000
+Marcelino Ramos,6333,2000
+Mariana Pimentel,3652,2000
+Mariano Moro,2449,2000
+Marques de Souza,4718,2000
+Mata,5882,2000
+Mato Castelhano,2332,2000
+Mato Leitao,3246,2000
+Maximiliano de Almeida,5721,2000
+Minas do Leao,7377,2000
+Miraguai,5052,2000
+Montauri,1853,2000
+Monte Alegre dos Campos,2925,2000
+Monte Belo do Sul,2623,2000
+Montenegro,54025,2000
+Mormaco,2333,2000
+Morrinhos do Sul,3690,2000
+Morro Redondo,5886,2000
+Morro Reuter,5158,2000
+Mostardas,9550,2000
+Mucum,5053,2000
+Muitos Capoes,2766,2000
+Muliterno,1661,2000
+Nao-Me-Toque,14275,2000
+Nicolau Vergueiro,1740,2000
+Nonoai,12684,2000
+Nova Alvorada,2763,2000
+Nova Araca,3409,2000
+Nova Bassano,8143,2000
+Nova Boa Vista,2277,2000
+Nova Brescia,4642,2000
+Nova Candelaria,3062,2000
+Nova Esperanca do Sul,3898,2000
+Nova Hartz,14133,2000
+Nova Padua,2441,2000
+Nova Palma,6017,2000
+Nova Petropolis,17096,2000
+Nova Prata,18010,2000
+Nova Ramada,2835,2000
+Nova Roma do Sul,3188,2000
+Nova Santa Rita,13933,2000
+Novo Barreiro,3521,2000
+Novo Cabrais,3432,2000
+Novo Hamburgo,244274,2000
+Novo Machado,4631,2000
+Novo Tiradentes,2919,2000
+Osorio,37008,2000
+Paim Filho,4474,2000
+Palmares do Sul,11058,2000
+Palmeira das Missoes,39087,2000
+Palmitinho,7395,2000
+Panambi,34669,2000
+Pantano Grande,10677,2000
+Parai,6033,2000
+Paraiso do Sul,6926,2000
+Pareci Novo,3033,2000
+Parobe,44345,2000
+Passa Sete,4797,2000
+Passo do Sobrado,5390,2000
+Passo Fundo,169471,2000
+Paverama,7781,2000
+Pedro Osorio,7718,2000
+Pejucara,4347,2000
+Pelotas,318895,2000
+Picada Cafe,4397,2000
+Pinhal,2432,2000
+Pinhal Grande,4522,2000
+Pinheirinho do Vale,4136,2000
+Pinheiro Machado,13320,2000
+Pirapo,3298,2000
+Piratini,17090,2000
+Planalto,10775,2000
+Poco das Antas,1818,2000
+Pontao,3475,2000
+Ponte Preta,2399,2000
+Portao,24605,2000
+Porto Alegre,1321886,2000
+Porto Lucena,7422,2000
+Porto Maua,2972,2000
+Porto Vera Cruz,2713,2000
+Porto Xavier,11546,2000
+Pouso Novo,2171,2000
+Presidente Lucena,2106,2000
+Progresso,6119,2000
+Protasio Alves,2092,2000
+Putinga,4575,2000
+Quarai,23979,2000
+Quevedos,2457,2000
+Quinze de Novembro,3635,2000
+Redentora,7912,2000
+Relvado,2218,2000
+Restinga Seca,16045,2000
+Rio dos indios,4994,2000
+Rio Grande,183461,2000
+Rio Pardo,37937,2000
+Riozinho,4012,2000
+Roca Sales,8843,2000
+Rodeio Bonito,5216,2000
+Rolante,18283,2000
+Ronda Alta,9439,2000
+Rondinha,6126,2000
+Roque Gonzales,7579,2000
+Rosario do Sul,42190,2000
+Sagrada Familia,2760,2000
+Saldanha Marinho,3204,2000
+Salto do Jacui,13689,2000
+Salvador das Missoes,2901,2000
+Salvador do Sul,6727,2000
+Sananduva,15170,2000
+Santa Barbara do Sul,10294,2000
+Santa Clara do Sul,4909,2000
+Santa Cruz do Sul,108703,2000
+Santa Maria,242352,2000
+Santa Maria do Herval,5970,2000
+Santa Rosa,68526,2000
+Santa Tereza,1829,2000
+Santa Vitoria do Palmar,30413,2000
+Santana da Boa Vista,8757,2000
+Santana do Livramento,93723,2000
+Santiago,52685,2000
+Santo angelo,77899,2000
+Santo Antonio da Patrulha,34055,2000
+Santo Antonio das Missoes,13552,2000
+Santo Antonio do Palma,2203,2000
+Santo Antonio do Planalto,2106,2000
+Santo Augusto,14909,2000
+Santo Cristo,15448,2000
+Santo Expedito do Sul,2571,2000
+Sao Borja,65207,2000
+Sao Domingos do Sul,2975,2000
+Sao Francisco de Assis,20374,2000
+Sao Francisco de Paula,18355,2000
+Sao Gabriel,62522,2000
+Sao Jeronimo,18830,2000
+Sao Joao da Urtiga,4570,2000
+Sao Joao do Polesine,2657,2000
+Sao Jorge,2905,2000
+Sao Jose das Missoes,3110,2000
+Sao Jose do Herval,2573,2000
+Sao Jose do Hortencio,3343,2000
+Sao Jose do Inhacora,2427,2000
+Sao Jose do Norte,23487,2000
+Sao Jose do Ouro,6938,2000
+Sao Jose dos Ausentes,3169,2000
+Sao Leopoldo,191958,2000
+Sao Lourenco do Sul,43710,2000
+Sao Luiz Gonzaga,38433,2000
+Sao Marcos,19017,2000
+Sao Martinho,6187,2000
+Sao Martinho da Serra,3238,2000
+Sao Miguel das Missoes,7434,2000
+Sao Nicolau,6004,2000
+Sao Paulo das Missoes,7132,2000
+Sao Pedro da Serra,2686,2000
+Sao Pedro do Butia,3027,2000
+Sao Pedro do Sul,16515,2000
+Sao Sebastiao do Cai,20993,2000
+Sao Sepe,24721,2000
+Sao Valentim,4111,2000
+Sao Valentim do Sul,2284,2000
+Sao Valerio do Sul,2380,2000
+Sao Vendelino,1760,2000
+Sao Vicente do Sul,8108,2000
+Sapiranga,68814,2000
+Sapucaia do Sul,122156,2000
+Sarandi,19559,2000
+Seberi,11049,2000
+Sede Nova,3281,2000
+Segredo,6722,2000
+Selbach,4622,2000
+Senador Salgado Filho,2833,2000
+Sentinela do Sul,3886,2000
+Serafina Correa,10901,2000
+Serio,3050,2000
+Sertao,7144,2000
+Sertao Santana,5306,2000
+Sete de Setembro,2379,2000
+Severiano de Almeida,4265,2000
+Silveira Martins,2599,2000
+Sinimbu,9564,2000
+Sobradinho,15484,2000
+Soledade,28415,2000
+Tabai,3095,2000
+Tapejara,14147,2000
+Tapera,11902,2000
+Tapes,14863,2000
+Taquara,52117,2000
+Taquari,24059,2000
+Taquarucu do Sul,3083,2000
+Tavares,5007,2000
+Tenente Portela,13666,2000
+Terra de Areia,11017,2000
+Teutonia,21876,2000
+Tiradentes do Sul,7948,2000
+Toropi,3120,2000
+Torres,26597,2000
+Tramandai,30536,2000
+Travesseiro,2208,2000
+Tres de Maio,25569,2000
+Tres Arroios,3200,2000
+Tres Cachoeiras,10362,2000
+Tres Coroas,18926,2000
+Tres Forquilhas,3159,2000
+Tres Palmeiras,4443,2000
+Tres Passos,25400,2000
+Trindade do Sul,5737,2000
+Triunfo,21401,2000
+Tucunduva,6576,2000
+Tunas,4431,2000
+Tupanci do Sul,1676,2000
+Tupancireta,18906,2000
+Tupandi,2889,2000
+Tuparendi,9491,2000
+Turucu,3716,2000
+Ubiretama,2649,2000
+Uniao da Serra,2056,2000
+Unistalda,2716,2000
+Uruguaiana,127838,2000
+Vacaria,55090,2000
+Vale do Sol,10206,2000
+Vale Real,3994,2000
+Vale Verde,2618,2000
+Vanini,1964,2000
+Venancio Aires,62521,2000
+Vera Cruz,21424,2000
+Veranopolis,19852,2000
+Vespasiano Correa,2356,2000
+Viadutos,6415,2000
+Viamao,210953,2000
+Vicente Dutra,5787,2000
+Victor Graeff,3904,2000
+Vila Flores,3140,2000
+Vila Langaro,2437,2000
+Vila Maria,4237,2000
+Vila Nova do Sul,4488,2000
+Vista Alegre,3011,2000
+Vista Alegre do Prata,1703,2000
+Vista Gaucha,2777,2000
+Vitoria das Missoes,3797,2000
+Xangri-la,7746,2000
+agua Clara,9992,2000
+Alcinopolis,3168,2000
+Amambai,29699,2000
+Anastacio,22728,2000
+Anaurilandia,6954,2000
+Angelica,7565,2000
+Antonio Joao,6224,2000
+Aparecida do Taboado,17958,2000
+Aquidauana,41007,2000
+Aral Moreira,6797,2000
+Bandeirantes,6277,2000
+Bataguassu,15521,2000
+Bataipora,11992,2000
+Bela Vista,21728,2000
+Bodoquena,7123,2000
+Bonito,14997,2000
+Brasilandia,10762,2000
+Caarapo,20020,2000
+Camapua,17456,2000
+Campo Grande,665206,2000
+Caracol,4647,2000
+Cassilandia,20806,2000
+Chapadao do Sul,10320,2000
+Corguinho,2973,2000
+Coronel Sapucaia,16283,2000
+Corumba,90435,2000
+Costa Rica,15408,2000
+Coxim,30713,2000
+Deodapolis,10538,2000
+Dois Irmaos do Buriti,9078,2000
+Douradina,4610,2000
+Dourados,168349,2000
+Eldorado,9627,2000
+Fatima do Sul,19164,2000
+Gloria de Dourados,9767,2000
+Guia Lopes da Laguna,10945,2000
+Iguatemi,12881,2000
+Inocencia,9490,2000
+Itapora,15182,2000
+Itaquirai,12829,2000
+Ivinhema,20361,2000
+Japora,4608,2000
+Jaraguari,4704,2000
+Jardim,21869,2000
+Jatei,3850,2000
+Juti,5380,2000
+Ladario,12643,2000
+Laguna Carapa,6200,2000
+Maracaju,26176,2000
+Miranda,21195,2000
+Mundo Novo,14708,2000
+Navirai,38499,2000
+Nioaque,16146,2000
+Nova Alvorada do Sul,5852,2000
+Nova Andradina,37995,2000
+Novo Horizonte do Sul,5548,2000
+Paranaiba,38165,2000
+Paranhos,10888,2000
+Pedro Gomes,8108,2000
+Ponta Pora,64966,2000
+Porto Murtinho,10444,2000
+Ribas do Rio Pardo,14791,2000
+Rio Brilhante,21236,2000
+Rio Negro,4408,2000
+Rio Verde de Mato Grosso,19425,2000
+Rochedo,3988,2000
+Santa Rita do Pardo,7097,2000
+Sao Gabriel do Oeste,16599,2000
+Selviria,7016,2000
+Sete Quedas,19633,2000
+Sidrolandia,20656,2000
+Sonora,10699,2000
+Tacuru,7393,2000
+Taquarussu,3449,2000
+Terenos,11040,2000
+Tres Lagoas,79521,2000
+Vicentina,5259,2000
+Acorizal,6797,2000
+agua Boa,13343,2000
+Alta Floresta,37374,2000
+Alto Araguaia,11326,2000
+Alto Boa Vista,6527,2000
+Alto Garcas,6521,2000
+Alto Paraguai,8979,2000
+Alto Taquari,3472,2000
+Apiacas,5578,2000
+Araguaiana,3623,2000
+Araguainha,1361,2000
+Araputanga,14287,2000
+Arenapolis,12722,2000
+Aripuana,18942,2000
+Barao de Melgaco,6582,2000
+Barra do Bugres,24142,2000
+Barra do Garcas,47861,2000
+Brasnorte,12356,2000
+Caceres,74733,2000
+Campinapolis,12406,2000
+Campo Novo do Parecis,18947,2000
+Campo Verde,13884,2000
+Campos de Julio,1902,2000
+Canabrava do Norte,8027,2000
+Canarana,17759,2000
+Carlinda,13374,2000
+Castanheira,6952,2000
+Chapada dos Guimaraes,15778,2000
+Claudia,13157,2000
+Cocalinho,5561,2000
+Colider,27594,2000
+Comodoro,16338,2000
+Confresa,24007,2000
+Cotriguacu,6329,2000
+Cuiaba,460263,2000
+Denise,10772,2000
+Diamantino,14942,2000
+Dom Aquino,8050,2000
+Feliz Natal,4084,2000
+Figueiropolis D'Oeste,4085,2000
+Gaucha do Norte,3328,2000
+General Carneiro,4833,2000
+Gloria D'Oeste,3286,2000
+Guaranta do Norte,27355,2000
+Guiratinga,11942,2000
+Indiavai,1584,2000
+Itauba,9160,2000
+Itiquira,7683,2000
+Jaciara,23675,2000
+Jangada,7520,2000
+Jauru,10488,2000
+Juara,29294,2000
+Juina,28102,2000
+Juruena,5943,2000
+Juscimeira,11685,2000
+Lambari D'Oeste,4848,2000
+Lucas do Rio Verde,16340,2000
+Luciara,2331,2000
+Marcelandia,14911,2000
+Matupa,12364,2000
+Mirassol d'Oeste,24083,2000
+Nobres,16615,2000
+Nortelandia,9794,2000
+Nossa Senhora do Livramento,11218,2000
+Nova Bandeirantes,6952,2000
+Nova Brasilandia,5063,2000
+Nova Canaa do Norte,9463,2000
+Nova Guarita,6085,2000
+Nova Lacerda,3474,2000
+Nova Marilandia,3340,2000
+Nova Maringa,2679,2000
+Nova Monte verde,7239,2000
+Nova Mutum,9514,2000
+Nova Olimpia,15504,2000
+Nova Ubirata,4612,2000
+Nova Xavantina,19292,2000
+Novo Horizonte do Norte,3225,2000
+Novo Mundo,3913,2000
+Novo Sao Joaquim,9316,2000
+Paranaita,6858,2000
+Paranatinga,15111,2000
+Pedra Preta,13912,2000
+Peixoto de Azevedo,25499,2000
+Planalto da Serra,2556,2000
+Pocone,31067,2000
+Pontal do Araguaia,3530,2000
+Ponte Branca,2598,2000
+Pontes e Lacerda,46335,2000
+Porto dos Gauchos,7966,2000
+Porto Alegre do Norte,13270,2000
+Porto Esperidiao,6736,2000
+Porto Estrela,4026,2000
+Poxoreo,19053,2000
+Primavera do Leste,29294,2000
+Querencia,5615,2000
+Reserva do Cabacal,2363,2000
+Ribeirao Cascalheira,8742,2000
+Ribeiraozinho,1727,2000
+Rio Branco,5593,2000
+Rondonopolis,159083,2000
+Rosario Oeste,14043,2000
+Salto do Ceu,4752,2000
+Santa Carmem,4520,2000
+Santa Terezinha,7086,2000
+Santo Afonso,2543,2000
+Santo Antonio do Leverger,14871,2000
+Sao Felix do Araguaia,10640,2000
+Sao Jose do Povo,3368,2000
+Sao Jose do Rio Claro,12578,2000
+Sao Jose do Xingu,5824,2000
+Sao Jose dos Quatro Marcos,21196,2000
+Sao Pedro da Cipa,3841,2000
+Sapezal,4715,2000
+Sinop,75816,2000
+Sorriso,35423,2000
+Tabapora,6412,2000
+Tangara da Serra,57541,2000
+Tapurah,9999,2000
+Terra Nova do Norte,15295,2000
+Tesouro,3152,2000
+Torixoreu,5473,2000
+Uniao do Sul,3678,2000
+Varzea Grande,221073,2000
+Vera,7835,2000
+Vila Bela da Santissima Trindade,11082,2000
+Vila Rica,17111,2000
+Abadia de Goias,3743,2000
+Abadiania,10693,2000
+Acreuna,16138,2000
+Adelandia,3099,2000
+agua Fria de Goias,3446,2000
+agua Limpa,2178,2000
+aguas Lindas de Goias,97915,2000
+Alexania,22073,2000
+Aloandia,2059,2000
+Alto Horizonte,2930,2000
+Alto Paraiso de Goias,6143,2000
+Alvorada do Norte,7751,2000
+Amaralina,2550,2000
+Americano do Brasil,5448,2000
+Amorinopolis,3930,2000
+Anapolis,287611,2000
+Anhanguera,850,2000
+Anicuns,17776,2000
+Aparecida de Goiania,343145,2000
+Aparecida do Rio Doce,2602,2000
+Apore,3457,2000
+Aracu,3649,2000
+Aragarcas,18912,2000
+Aragoiania,6464,2000
+Araguapaz,8230,2000
+Arenopolis,3637,2000
+Aruana,5647,2000
+Aurilandia,4878,2000
+Avelinopolis,2667,2000
+Baliza,4026,2000
+Barro Alto,8046,2000
+Bela Vista de Goias,21081,2000
+Bom Jardim de Goias,8208,2000
+Bom Jesus de Goias,15388,2000
+Bonfinopolis,4882,2000
+Bonopolis,2681,2000
+Brazabrantes,3054,2000
+Britania,6066,2000
+Buriti de Goias,2850,2000
+Buriti Alegre,9237,2000
+Buritinopolis,3960,2000
+Cabeceiras,5455,2000
+Cachoeira de Goias,1223,2000
+Cachoeira Alta,7554,2000
+Cachoeira Dourada,7511,2000
+Cacu,9507,2000
+Caiaponia,14432,2000
+Caldas Novas,46978,2000
+Caldazinha,3088,2000
+Campestre de Goias,2563,2000
+Campinacu,3517,2000
+Campinorte,9138,2000
+Campo Alegre de Goias,4704,2000
+Campos Belos,16203,2000
+Campos Verdes,11922,2000
+Carmo do Rio Verde,7115,2000
+Castelandia,4145,2000
+Catalao,61590,2000
+Caturai,4072,2000
+Cavalcante,10759,2000
+Ceres,19770,2000
+Cezarina,6573,2000
+Chapadao do Ceu,3082,2000
+Cidade Ocidental,39288,2000
+Cocalzinho de Goias,14458,2000
+Colinas do Sul,3531,2000
+Corrego do Ouro,2856,2000
+Corumba de Goias,7893,2000
+Corumbaiba,6293,2000
+Cristalina,33498,2000
+Cristianopolis,3124,2000
+Crixas,14420,2000
+Crominia,3919,2000
+Cumari,3261,2000
+Damianopolis,3233,2000
+Damolandia,2676,2000
+Davinopolis,2054,2000
+Diorama,2790,2000
+Divinopolis de Goias,4975,2000
+Doverlandia,6823,2000
+Edealina,3457,2000
+Edeia,11717,2000
+Estrela do Norte,3576,2000
+Faina,7073,2000
+Fazenda Nova,7929,2000
+Firminopolis,9586,2000
+Flores de Goias,5662,2000
+Formosa,81432,2000
+Formoso,5419,2000
+Goianapolis,11529,2000
+Goiandira,4713,2000
+Goianesia,48748,2000
+Goiania,1073490,2000
+Goianira,18009,2000
+Goias,28268,2000
+Goiatuba,30516,2000
+Gouvelandia,3700,2000
+Guapo,13085,2000
+Guaraita,3074,2000
+Guarani de Goias,4321,2000
+Guarinos,2842,2000
+Heitorai,2928,2000
+Hidrolandia,11805,2000
+Hidrolina,4001,2000
+Iaciara,11150,2000
+Inaciolandia,5086,2000
+Indiara,13082,2000
+Inhumas,42232,2000
+Ipameri,23133,2000
+Ipora,32931,2000
+Israelandia,3472,2000
+Itaberai,27799,2000
+Itaguari,4579,2000
+Itaguaru,4933,2000
+Itaja,5301,2000
+Itapaci,14109,2000
+Itapirapua,9307,2000
+Itapuranga,27612,2000
+Itaruma,6078,2000
+Itaucu,7749,2000
+Itumbiara,82814,2000
+Ivolandia,3197,2000
+Jandaia,6879,2000
+Jaragua,31023,2000
+Jatai,82010,2000
+Jaupaci,2568,2000
+Jesupolis,2062,2000
+Joviania,6764,2000
+Jussara,18232,2000
+Leopoldo de Bulhoes,8183,2000
+Luziania,131539,2000
+Mairipotaba,2596,2000
+Mambai,5128,2000
+Mara Rosa,10839,2000
+Marzagao,2173,2000
+Matrincha,4941,2000
+Maurilandia,9983,2000
+Mimoso de Goias,2303,2000
+Minacu,37493,2000
+Mineiros,35521,2000
+Moipora,1845,2000
+Monte Alegre de Goias,6290,2000
+Montes Claros de Goias,7485,2000
+Montividiu,7127,2000
+Montividiu do Norte,2750,2000
+Morrinhos,34040,2000
+Morro Agudo de Goias,2104,2000
+Mossamedes,5889,2000
+Mozarlandia,10384,2000
+Mundo Novo,5633,2000
+Mutunopolis,4598,2000
+Nazario,7124,2000
+Neropolis,18065,2000
+Niquelandia,32486,2000
+Nova America,2300,2000
+Nova Aurora,1932,2000
+Nova Crixas,9427,2000
+Nova Gloria,9604,2000
+Nova Iguacu de Goias,2527,2000
+Nova Roma,3651,2000
+Nova Veneza,6591,2000
+Novo Brasil,4168,2000
+Novo Gama,74522,2000
+Novo Planalto,3417,2000
+Orizona,13757,2000
+Ouro Verde de Goias,4776,2000
+Ouvidor,4247,2000
+Padre Bernardo,17127,2000
+Palestina de Goias,3538,2000
+Palmeiras de Goias,18600,2000
+Palmelo,2216,2000
+Palminopolis,3211,2000
+Panama,2747,2000
+Paranaiguara,9409,2000
+Parauna,12661,2000
+Perolandia,2119,2000
+Petrolina de Goias,9385,2000
+Pilar de Goias,3486,2000
+Piracanjuba,23031,2000
+Piranhas,11167,2000
+Pirenopolis,20759,2000
+Pires do Rio,29743,2000
+Planaltina,69428,2000
+Pontalina,17026,2000
+Porangatu,39147,2000
+Porteirao,2663,2000
+Portelandia,3204,2000
+Posse,25137,2000
+Professor Jamil,3858,2000
+Quirinopolis,35982,2000
+Rialma,11188,2000
+Rianapolis,4536,2000
+Rio Quente,2143,2000
+Rio Verde,110009,2000
+Rubiataba,17508,2000
+Sanclerlandia,8092,2000
+Santa Barbara de Goias,5123,2000
+Santa Cruz de Goias,2775,2000
+Santa Fe de Goias,3470,2000
+Santa Helena de Goias,32663,2000
+Santa Isabel,3325,2000
+Santa Rita do Araguaia,5833,2000
+Santa Rita do Novo Destino,3127,2000
+Santa Rosa de Goias,3392,2000
+Santa Tereza de Goias,5288,2000
+Santa Terezinha de Goias,11894,2000
+Santo Antonio da Barra,4469,2000
+Santo Antonio de Goias,2856,2000
+Santo Antonio do Descoberto,73573,2000
+Sao Domingos,8661,2000
+Sao Francisco de Goias,5867,2000
+Sao Joao d'Alianca,6745,2000
+Sao Joao da Parauna,2174,2000
+Sao Luis de Montes Belos,25774,2000
+Sao Luiz do Norte,3487,2000
+Sao Miguel do Araguaia,22247,2000
+Sao Miguel do Passa Quatro,3140,2000
+Sao Patricio,1528,2000
+Sao Simao,13867,2000
+Senador Canedo,52467,2000
+Serranopolis,6125,2000
+Silvania,19750,2000
+Simolandia,6380,2000
+Sitio d'Abadia,3049,2000
+Taquaral de Goias,3454,2000
+Teresina de Goias,2410,2000
+Terezopolis de Goias,5017,2000
+Tres Ranchos,3118,2000
+Trindade,81259,2000
+Trombas,3291,2000
+Turvania,5598,2000
+Turvelandia,3535,2000
+Uirapuru,3039,2000
+Uruacu,33435,2000
+Uruana,15607,2000
+Urutai,2921,2000
+Valparaiso de Goias,92932,2000
+Varjao,3517,2000
+Vianopolis,10034,2000
+Vicentinopolis,6661,2000
+Vila Boa,2424,2000
+Vila Propicio,3716,2000
+Brasilia,2016497,2000
